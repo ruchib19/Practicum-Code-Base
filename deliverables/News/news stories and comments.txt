@@ -1,0 +1,1339 @@
+"
+Help me launch india's first locally produced electric mobility scooters
+shahocean  4 years ago  comments
+Any particular reason for choosing Indiegogo? I love the idea of #MakeinIndia!
+
+
+India’s IT industry laid off more than 56k employees this year
+sandGorgon  a year ago  comments
+These are mostly outsourcing companies.
+
+India's IT industry is realigning towards domestic markets and #MakeInIndia companies - it is more aspirational to join Paytm, Ola, Zomato in India than to work for a US based outsourcer.
+
+It is not even a competition anymore - I'm able to very easily get highly qualified Indians in Silicon Valley to move back and work on something cool in India.
+
+This is the reason that nobody in India (incl the govt) gives a shit about the H1B rule changes in the US. The entire focus of the IT industry is shifting to move up the value chain. We are trying to build more Freshdesk in India and sell them to the world... Rather than body shopping.
+
+It is going to be a time of massive upheaval as a lot of jobs will be lost - both as a consequence of the US pushback on visas as well as the change in strategic focus.
+
+
+Make in India
+6 points  Fastidious  4 years ago  comments
+Shouldn't it be "madeinindia.com?" Really messy website.
+
+
+Ask HN: Taking a sabbatical to somewhere in Asia. How can I make the most of it?
+2 points  madeinindia  8 years ago  comments
+If you have not done it already, you must visit India. India has got an excellent mix of the old and the new. There are a wide array of languages you can chose to learn from. India is the cradle of Eastern philosophy so you can explore yoga and meditations in different forms and flavors. A strong tech community in the tier 1 cities and yes to plenty to capture in your camera!.
+
+
+Why is America the 'no-vacation nation'?
+2 points  madeinindia  8 years ago  comments
+All you folks must seriously consider moving to India. Its a vibrant country with a lot of energy. Software Engineers get above than average market salaries. With a decent salary one can afford a great life style here. It also servers as an excellent laboratory where you can test/prototype and implement your ideas.
+
+
+HP to buy Autonomy for $11 billion
+1 points  madeinindia  7 years ago  comments
+HP... Autonomy... really?<br />http://www.glassdoor.com/Reviews/Autonomy-Reviews-E1104
+How Can A Free Conference Call Be Free?
+11 points  FfejL  7 years ago  comments
+It's outdated in the sense that the original reason for the high fees was to make it economically viable to provide service to people in rural areas. But the original sunk costs of wiring every home and business have long been paid off, and the digital-ization of the phone network has drastically reduced the ongoing costs of providing service to those folks. So it's outdated.
+
+On the other hand, there are plenty of local CLECs in rural areas that make money from these fees, and they continue to lobby hard to keep the tarriffs and fees as they are.
+
+So it's both, really.
+
+
+Aaron Swartz commits suicide
+5 points  rprasad  6 years ago  comments
+JSTOR is a non-profit created to store scholarly articles and maintain archives of scholarly work for future access. JSTOR is and was a driving force behind the digitalization of scholarly works and most academic journals. JSTOR's sole function is to maintain these archives, even if/when it is not commercially viable to do so.
+
+All of this costs money. Universities and companies pay for JSTOR so that it can keep doing its job. More importantly, universities and companies pay for JSTOR so that they don't have to take on the burdens of maintaining complete archives of all academic works.
+
+
+Google under fire from regulators on EU privacy ruling
+4 points  cpa  4 years ago  comments
+I understand that HN is on the side of absolute freedom of expression which entails that if anything has been public once, it has a right to stay to public till the dawn of times, so I hardly ever comment on these matters. I'm French, and I definitely do not agree with this opinion.
+
+In 1978, the french government proposed to cross-reference (through digitalization) many of its databases (birth registry, healthcare, retirement fund, driver's license…). It encountered a very strong resistance from the public, mostly because of an news article in one the biggest newspaper (Le Monde) titled "SAFARI [the name of the project]: the hunt for french citizens" (la chasse aux français).<br />Needless to say that such a system would have been a blessing for the German administration during WW2. It was 1978 and WW2 didn't seem that far away, either your generation or the one of your parents lived during the war. That's how France ended up with a law (Loi Informatique & Libertés) that regulates what one can do with databases storing personal information.
+
+How's that related to the right to be forgotten? Bear with me.
+
+This law (and up to minor differences, the EU directive on the matter), makes explicit what I consider to be a very smart and important idea: "purpose of data" (finalité des données). Basically, before you're authorized to store personal data (like email adresses, names, phone numbers, IP addresses[1]), you have to state what the purpose of this data is (to who and how is another matter, but that's not too difficult).<br />Also, data should only be stored for a specific amount of time. This duration is determined by the purpose of the data. For example, if you have a database of all the people that used to be registered to your {nodejs,rails,lisp} newsletter but aren't anymore, you cannot keep that data for, say, 10 years. 10 years doesn't make sense given the purpose of your data. Note that if you anonymize the data, you're good to go.<br />On the other hand, if you have medical data on cutting edge treatment of cancer, you may want to keep the data for 30 years if you need to contact a former patient when you discover longterm side-effect of your drug. And in this case, it's fine.
+
+You may start to see where I'm going. We have basically the same idea in the right to be forgotten. Yes, it impedes freedom of speech as american people think of it. Sure. But, you know, in Europe, we have a different freedom of speech, which also traces back to WW2. I can't go around saying that I hate black people and that I'm a nazi. I'm gonna be fined/thrown in jail for doing that. And a vast majority of Europeans do agree with that. Basically restrictions are nothing that promotes hate/racism and libel (you can't say that somebody's a serial killer before he's convicted for example.)
+
+And you may think I'm backwards, turning away from the blinding beauty of technology (right to be forgotten? that's not how the internet works!). Thinking that Freedom of speech as the US knows it is the way to go everywhere is universalism, pure and simple. So, please remember that countries and people have a history.
+
+Yep, the internet doesn't work that way. And I am aware the I can host my server in some random third world country and get away with mostly whatever I host. Or I can use a tor hidden service. But that's not the point. 99% of these cases will be about data hosted by legitimate businesses, which have a name and address and that will be compelled to remove the data.<br />In my opinion, the slope isn't that slippery. After all, you'd be hard pressed to consider EU countries as being way too censorshipy (?) — in general, not just when talking about Internet.
+
+And yes, law will always be stupid when you pit it against technology. But unless you advocate total deregulation, it's a matter of how much idiocy you can accept.
+
+Finally, a thought on jurisdiction: european judges consider that they have authority if the intended public is european. So yes, google.es, google.co.uk and such are subject to european law. Wether or not google.com is subject to EU law has not been tested in court (it probably has, but I can't remember any specific case), but even in this case, it would be perfectly acceptable (from the court standpoint) to alter google.com for EU IP addresses and leave it untouched for other addresses. So, no, nobody's gonna tread your freedom.
+
+Ironically, I don't really have an opinion on Freedom of speech (US vs EU). But I find that the EU has struck a nice balance when it comes to that. Knowing that companies must destroy data that has my name attached to it when it's not relevant anymore is very appealing.
+
+In the end, the US and the EU, in this case, disagree on principle, which are like axioms. You can't prove me that one is better (in the general framework of modern civilization, ie, let's say The Universal Declaration of Human Rights, to keep it simple.)
+
+[1] this one is tricky, but this comment is already long enough
+
+
+A nation of slaves
+4 points  danford  5 years ago  comments
+Great article. One of the things that many people have an aversion to when it comes to this kind of thing is the "socialist" aspect of it. We all agree that it's great, but is it for everybody? I totally see where libertarians come from. They want A LOT of freedom. But why can't we have it both ways? One of the reasons socialism is hard to maintain is because of how spread out things can be, I think we can all agree that with socialism you inevitably have to force people to do certain things so that society can work (for example, live in a certain place), and this is much easier to do in a small location, but what's stopping us from having two sets of laws governing two areas of land?
+
+You can fit everyone in the US into an area the size of Jacksonville Fl., so why not just establish "tech-metros" which are open to anyone and provide basic necessities in a socialized fashion, and use automation and digitalization to provide goods and services, while designating certain swaths of land out side these places as under a different set of laws that are more libertarian in nature? I believe ~60% of people would flock to the "tech-metros" while the remaining portion would attempt life in a more privatized fashion out side of them. With a more centralized "sub-government" in charge of these small areas, and with it being easy to come and go as you please, it should be easier to take care of the masses that want to be taken care of and let the masses who don't want to be taken care of take care of themselves.
+
+Now that's just a couple paragraphs on a very radical idea, so there are a lot of details being left out, but imho this idea provides the most happiness along with the least destruction.
+
+
+Russia in color, a century ago
+4 points  anovikov  6 years ago  comments
+This is nonsense, analog also has a resolution. The stated resolution for the best audio cassettes i seen were 70us, correspondent (according to Niquist formula) to 28kHz digitalization, 1.5 worse than CDs. Most were worse, and it was just the resolution of the tape itself, telling nothing about ability of the recorder head to write them or read.
+
+Same goes to photo film: image consists not of molecules, but of silver granules on film which are about a micron size, and either black or white. Actual resolution (which depends on contrast) is indicated on a film roll (for quality films), as a chart lp/mm vs contrast. While high resolution (and low-sensitive) film beats CCDs in this regard, reaching and somewhat exceeding 100 lp/mm which is equivalent to 2.5 microns per pixel, remember about Bayer pattern on chips to make color photos, vs about 5 microns per pixel in CCDs on DSLRs, this only comes with low sensitivity and other issues. General purpose photo films in most common shooting conditions are normally about same resolution as a good DSLR (full-frame because otherwise you have to apply a crop factor), and even than is an overshoot because most lenses does not provide that resolution, see MTF chart for most of them, the 'resolution' line is typically drawn measured at 30 lp/mm equivalent!
+
+I am not even talking about such a fundamental effect as diffraction. It will block any further increase in image quality, whatever the lens and film is, long before you get down to 'molecules' (in fact, diffraction is in fact a limiting factor for resolution in many shooting conditions).
+
+How important is the diffraction? Let's take practical best and worst case.
+
+Best case: Full frame 20mpix DSLR, 6.5u pixels. Canon EF 50mm F/1.2L fixed focal length lens, resulting in about 41.6mm aperture. Resolution at peak sensitivity of 0.55 microns for this lens means that diffraction disk diameter will be 1.22 * 0.55/41666=1.61E-05 rad, which will be seen from 50mm distance (focal length, i.e. distance to film) as having 0.8u diameter - 8 times less than the pixel. So diffraction has no meaning here.
+
+But, it is easy to see that there is a direct relationship between focal ratio and Airy disk diameter, so when diaphragm closes to 1.2*6.5/0.8 = ~f/9.7, Airy disk becomes as big as the pixel - making smaller pixel useless. This is not an extreme value - doing outdoor shooting in all-auto mode normally results in images done at f/8 or f/11 diaphragm. So, making pixels much smaller than they are now is all but useless even in a perfect optical system (which does not exist). Of course, same equally applies to film.
+
+
+Every day at my job I helped people just barely survive
+4 points  unimpressive  7 years ago  comments
+"These gov't forms are often ripe for improvement via improved UX with step-by-step inputs, contextual help, and multi-language capabilities."
+
+Sure, and this would undoubtedly relieve a lot of pain points. But the authors intent here goes deeper than just interface. A significant, very non-trivial portion of the population is being left behind by digitalization. These people have no recourse if certain government institutions only handle online forms. Imagine for a second that you have no web experience whatsoever, and you are greeted by the firefox startup screen.
+
+A hard thing to do I know, but as it stands if this is your position it's hard to get out of. Where do you even start? Who can you ask for help in an increasingly competitive solipsistic environment? (Solipsistic, according to my spell check, is not a word, but it's meaning should be obvious to those familiar with solipsism.)
+
+It's hard to imagine the peasants plight when your sitting in the Vatican.
+
+EDIT: Going further, even the people that you wouldn't expect, generation Z, don't really understand computers either. And I'm not sure if they really want to. I mean, sure they can use facebook, but if they ever have "a cool idea" good luck to them figuring out how to express it in digital media. I wonder how many brilliant web startups, game changers, and generally disruptive ideas are trapped in the heads of people who will never get an opportunity to try them out.
+
+
+At least now we know why Color really got that funding
+4 points  Apocryphon  8 years ago  comments
+I rewatched The Social Network. I just realized that Timberlake's final rant as Sean Parker in that film was essentially the premise of Color.com- to wit:
+
+"The next transformative development, a picture-sharing application. A place where you view pictures that coincide with your social life. It is the true digitalization of real life. You don't just go to a party anymore. You go to a party with a digital camera, and then your friends relive the party online. And tagging."
+
+
+Against Sharing
+3 points  sebst  4 years ago  comments
+Not sure if that article is really about shifting risks from corporates to workers and weakening their protections.
+
+It is more like a kind of gatekeeper discussion. Digitalization has moved the gate keeper role from media dinosaurs to agile startups and companies.
+
+Uber can de-activate their users as well as Facebook can reduce organic visibility of fan pages or Google may kick you out of their index. The open internet that we have is still built upon the gate keeper behavior.
+
+In the Uber case that clearly affects individuals, like taxi drivers, but in the case of Facebook, Twitter and Uber that can affect large companies, too.
+
+So, may I read this article also as a manifest against "attention" monopolists?
+
+
+What happened to Motorola
+3 points  Padding  4 years ago  comments
+That's a good question.
+
+My guess is that Google is still much too young a company to esperience any of the issues. Maybe once the founders are out for good, and we see more tradtional MBA-style leadership, the traditional illnesses will start emerging too.
+
+Up to now Google has avoided the problem by consistently biting off more than it can chew, landing some borderline-success and improving on from there. This is what they did with search, advertising, book digitalization, online videos, etc. In short, there wasn't much need for internal competition, since they were actively looking for new challenges from the outside.
+
+It's great that they're doing all of this, but I'm curious whether at some point (a few decades from now) they'll eventually decide that all the effort isn't really worth it and focus only on the high-margin stuff.
+
+
+Stripe launches German beta
+2 points  danieldk  5 years ago  comments
+Of course, it's all fine and cool until health insurance starts [...]
+
+Agreed. But digitalization of society is not something that can be stopped. Just by posting here on Hackernews, you left plenty of traces that can be mined.
+
+We should demand from our governments that laws are put into place so that our data is not only protected, but controlled by ourselves.
+
+
+DIY cellphone
+2 points  noselasd  6 years ago  comments
+No, OpeBTS does the GSM related DSP. You get a stream of I/Q samples from the USRP, which is more or less just the digitalization of the baseband. OpenBTS carves the time slots and "frames" out of this, does the GMSK de-modulation and similar stuff.
+
+Note that the lower layers of GSM is very different from e.g. ethernet. Once you get past all the very gory stuff up to layer 2, the concepts are pretty much the same though.
+
+
+Android is dead
+2 points  kaolinite  7 years ago  comments
+No it's not, that's ridiculous. Stop attention-seeking.
+
+(I did write a long post about the future of Android, etc, but soon realised after flicking around on the blogger's site that it's not worth it. Load of rubbish from an "expert on how digitalization and the mobile web are remaking markets, industries, business models and lives around the world." ..Yeah).
+
+
+Why I'm a Pirate
+2 points  technoslut  7 years ago  comments
+I'm trying to understand your point. Are you for digital music being available or not?
+
+>Where is your sympathy for all the truckers, records store people etc. that lost their jobs because of digitalization?
+
+Of course I do have sympathy for them but humanity has to move forward. We are living in a disruptive age much like those in the beginning of the Industrial Age. Humanity will need to adjust. This really is another subject for another story and doesn't hold relevance to the topic of piracy.
+
+>I personally have more sympathy for them, the musicians will always have the music. Whether they will be able to live from it is another thing.
+
+This makes no sense. You are condemning musicians to the same fate as those you mentioned. The only difference is that potential future truckers and HS/college students at record stores won't suffer because there will be new jobs created but the artist always will.
+
+The world does not need more starving artists.
+
+
+23andMe raises $50M, cuts price to $99, sets goal of 1M genotyped customers
+1 points  Geee  6 years ago  comments
+Whole slew of startups should look into genetics. DNA sequencing is basically the final frontier of digitalization of the world. Look what happened with text and images, and it's now happening to everything living. Medicine is going to change.
+
+
+Dear Marketers: Enough with the QR codes
+1 points  xarien  7 years ago  comments
+People don't understand QR codes.
+
+QR codes are a medium of transportation and a digitalization of analog information. However, if what's at the end of that trail isn't something people are interested in, then it doesn't matter if that trail is the yellow brick road, they're not going to follow it.
+
+The reason why QR codes are used is that they're cheap, dirt cheap. But most vendors are simply adding them without thinking about adding value. When you start adding value like convenience, discounts, promotions and other means to hook an audience, that's when the ability to interact with print becomes validated. Until vendors start doing this, posts and comics like the above will exist...
+
+
+Government Was Very Involved Helping RIAA/MPAA Negotiate Six Strikes
+1 points  twainer  7 years ago  comments
+Aside from the personal attacks, you are attempting here to make an intellectual construct: product as legalized monopoly or, equally pejoratively, a deliberate fiction. Your construct is used to deny value to a previously physical good that no longer requires a physical medium. As you put it: But once the physical component of media became something that folks on the buy side already owned our controlled outright (i.e. disk space, bandwidth, and electricity), the fiction became unsustainable.
+
+In other words, unless something is a physical product it no longer has a defensible value.
+
+So - taking your point - lets agree that music isnt a physical product at all. Of course, any piece of music starts its life as an idea anyway. Lets consider music as a service - an entertainment service rendered by the artist onto anyone who chooses to listen. This is an intellectual service provided much along the same lines as a lawyer or journalist or any thought-based medium. The main inputs are only the great intangibles of time and expertise.
+
+Now, your original view invalidating the value of non-physical goods demands that any thought-based products do not deserve compensation or protection in your system. After all, there value is just deliberate fiction. The legal profession, of course, is just a legalized monopoly complete with barriers to entry such as law school and the Bar Exam. Journalism - built on the back of intangibles of integrity, connections, and honesty - is just an unsustainable fiction.
+
+Lets put a bold line under it: this world-view dismisses the value of non-physical-product producing work. This sounds quite like Maoist China to me. You accuse me of peddling utterly obsolete ideas but your line of thought is gravely far from being progressive. It is actually very retrograde and, in my opinion, anti-individual.
+
+Work. Time. Expertise. All intangibles. Either they have value in society and deserve recompense or they dont. Its yes or its no. To avoid a long deliberation on the difference between lawyers and artists let's make it simple: if one derives something desired from the work of others than it is worthy of recompense for, logically, all that is desired has value. The inputs truly dont matter. The medium of transference certainly doesnt.
+
+From where I am standing it is your thought so far that is actually the deliberate fiction: a mental construct dissolving value. A belief that through some McGuffin-like process of digitalization the natural rules of civil society no longer apply. These are not top-down pronouncements from a single man or a government; they are bottom-up flexible norms derived from millennia of very real human experience across thousands of cultures comprised by millions of people.
+
+That for me is the ultimate irony and hubris: to think that ones simple fiction somehow displaces the truth of human society. I am all for transformation but the sad news for some people seems to be that the virtual world of the internet is but a derivative of the real world - not a replacement for it. If you want to build a better internet, build one that can re-purpose human interaction in a positive way. If you only want to consume the internet simply claim that that re-purposing has no basis for being done.
+
+So which is it? I believe that artists deserve at least a period of recompense for their works. What do you believe?
+
+
+If Software Is Eating The World, Why Don't Coders Get Any Respect?
+1 points  seri  7 years ago  comments
+The content of the orignal post may be questionable, but I feel it was written in a way that would trigger a heated debate. For that, mission accomplished. There has been many wise comments, but they all choose to take a branch of the post to dig into. Not to blame them, as the question raised here is basically:
+
+    The software industry has huge impact on human lives 
+    but such impact has not been materialized in terms of
+    both cash and social status for its practicioners. 
+    True or false? 
+And it boils down to too many things to talk about all at once. Maybe it would help to break them into sub-topics to make it easier to link the seemingly disconnected but insightful points posted here:
+1. Are lawyers and investment bankers overpaid? If they are overpaid, one can't say software engineers are underpaid by comparing to them.
+
+2. So the software industry impacts lives, but is it all positive? Maybe society isn't that much better off with all this digitalization. There is a chance that the total value of the industry is being inflated.
+
+3. Are we concerned that the median and average salaries of software engineers are too low (a), or are we concerned that the elite programmers are not being paid as high as top attorneys (b)? We can solve (a) by raising barriers to entry, much like in other elite fields, but is that a good thing to do? As for (b), elite programmers are now called startup founders. If entrepreneurship is made easier in the software industry, then things seem fair.
+
+4. Now speaking of social status, I think programmers aren't cool because nerds aren't cool, not because they are paid less. Pick a programmer and an accountant with the same salary, and the accountant is more likely to shine in social outings. But if the whole industry raises its average salary, then yes, the social status of being a coder will increase. We are back to the question raised in (3a).
+
+5. About political power, I think this is more of a problem with motivation. To be motivated enough to run for office, you have to be hungry for fame and power. However, it's a good point that the government could benefit from having more top engineers. See a related post: http://lemire.me/blog/archives/2011/08/22/linux-and-the-fina...
+
+6. Is China really on the right track?
+
+
+How to put your logo in a QR code
+1 points  masklinn  7 years ago  comments
+> "Abuse" is a relative term.
+
+No, it's not.
+
+> Denso may not have introduced error correction for the use case of inserting aesthetic elements into the barcode, but hey, it works.
+
+Error correction was introduced because the physical media degrades and even in the best case capture is not ideal. Therefore error correction is a requirement to correctly round-trip digital information printed on an analog media. By abusing error correction mechanisms for cutesy purposes you increase the chances of complete digitalization failure significantly, sometimes (if you use all available error correction) to the point where the tag can only be scanned under absolutely perfect conditions.
+
+
+IBM executive says PC era is in its twilight
+1 points  daedhel  7 years ago  comments
+I think you are spot on. Just like big sound system aren't really dead in an era of miniaturisation, or vinyls aren't really dead in an era of digitalization, PCs or laptop won't really die in an era of cloudification.
+
+
+Why I'm a Pirate
+ThomPete  7 years ago  comments
+I don't care what the labels do. If they fell they cant make money that way then they should probably stay out of the digital business model.
+
+But the truth of course is that they saw huge benefits throughout the years as it became cheaper and cheaper for them to produce and distribute the music.
+
+Where is your sympathy for all the truckers, records store people etc. that lost their jobs because of digitalization?
+
+I personally have more sympathy for them, the musicians will always have the music. Whether they will be able to live from it is another thing.
+
+The smart ones will.
+Save the internet. Tell TRAI we need network neutrality
+meta-coder  4 years ago  comments
+This article[1] highlights the ridiculously regressive arguments given by the Indian ISPs against net neutrality, as reflected from the TRAI’s consultation paper:
+
+  1. OTTs negatively affect our revenue
+  2. OTT apps use very less data
+  3. OTTs earn too much
+  4. Net neutrality is already dead
+  5. Compression algorithms further reduce our profits
+  6. Too much freedom of expression is bad
+Here's how the telecom regulatory authority of India defines OTT:
+"The term over-the-top (OTT) refers to applications and services which are accessible over the internet and ride on operators’ networks offering internet access services e.g. social networks, search engines, amateur video aggregation sites etc. The best known examples of OTT are Skype, Viber, WhatsApp, Chat On, Snapchat, Instagram, Kik, Google Talk, Hike, Line, WeChat, Tango, e-commerce sites (Amazon, Flipkart etc.),Ola, Facebook messenger, Black Berry Messenger, iMessage, online video games and movies (Netflix, Pandora)."
+
+[1] http://new-digital-india.blogspot.in/2015/04/how-indian-isps...
+
+edit: added definition of OTT
+
+
+India goes digital
+tzakrajs  4 years ago  comments
+Too bad they can't afford SSL certificates. I'll never get to know just how digital India went.
+
+
+Modi’s Cash Crackdown Failed, Indian Bank Data Shows
+pkphilip  4 months ago  comments
+Total BS. The announcement of the demonisation by Modi repeatedly mentioned removing black money from the system. There wasn't a single mention of moving to a digital economy. When the blackmoney angle failed, the BJP govt started talking about digital India etc.
+
+
+‘Big Brother’ in India Requires Fingerprint Scans for Food, Phones and Finances
+firasd  9 months ago  comments
+As a tech professional, it's extra disturbing the way the government pushes these harebrained schemes by marketing them as 'Digital India', 'India Stack', etc. thus getting visiting dignitaries from other countries to lap it up. We really need to be careful that we don't whitewash autocratic bureaucracy by branding it digital innovation.
+
+Note the spin from Aadhaar proponents in this NYT article--that it's the equivalent of building interstate highways, or that citizens are the biggest beneficiaries. They neglect to mention that the program is mandatory. If people were truly benefiting, they wouldn't need to force everyone to link so many of their life activities with this database--we'd do it voluntarily.
+
+During the demonetization disaster of Nov 2016 (in which 86% of the cash value in circulation was deemed unusable overnight), once the problems became clear, the government went on a massive PR spree saying that despite the problems faced by ordinary people, the policy will spur 'digital payments'. 18 months later it's clear that this was a stupid claim--the cash in circulation has matched or exceeded the amount that was demonetized. I wrote about this at the time here but I'm still very upset about what went down and the whole 'ooh this will lead to digital innovation!11' deflection. https://hackernoon.com/i-boycott-paytm-5df93d189356
+
+
+Launch HN: Wifi Dabba (YC W17) – Low-Cost Wifi in India
+aq3cn  2 years ago  comments
+You know Indian govt is busy building such infrastructure at Railways and villages with the collaboration with Google. Around 150 railway stations are equipped with free wifi. Govt is pushing optical fiber network in villages so that it can promote Digital India.
+
+In my opinion you should contact govt for more help and I am sure your ideas can be utilized.
+
+http://economictimes.indiatimes.com/industry/transportation/...
+
+http://timesofindia.indiatimes.com/city/pune/Amazon-sets-up-...
+
+
+What really happened when Swedes tried six-hour days?
+thewhitetulip  2 years ago  comments
+Could not agree mofe, here in I dia every stupid Govt thing requires your presence despite the "digital India" push, that too alternate working Saturdays! And on that satirday they ask you to come on Monday. There is really a need to give friday half day or something like that
+
+
+Does India need its own vernacular internet?
+gnipgnip  2 years ago  comments
+(Vernacular - "Language of the slave").
+
+It's far more complicated that "need its own vernacular internet". The internet is an emergent thing, and what one sees are just the symptoms. This is also the reason India's literacy is so low (even compared to Africa/Middle East).
+
+If India wasn't a linguistic apartheid regime, we'd already have seen a native ecosystem which is lacking quite badly. This needs fixing at the state and political levels, which I have exactly zero hope of ever happening. This despite having some nauseously xenophobic organizations like ShivSena (in Maharashtra), the DMKs (in TN), the KaRaVes (in KA). This is in addition to the "nationalistic" organizations like RSS and BJP at the central level.
+
+These orgs are essentially vehicles which instrumentalize the widespread disaffection from the apartheid state, in order to put themselves in power (Advani's use of Ayodhya is a nice study). If you study their policies carefully however, you realize they plan to do precisely nothing that is the cause for the inequity.
+
+This is not different from the independence movement, where a bunch of Brown folk wanted to run the colony.
+
+Digital India, be in no doubt, is meant for the 200 million Brown sahibs, who do know English. The rest are peasants who have been at the losing side of the inflationary system today, and of the cruel taxation system of the British, kept at bay via endless subsidies (a dog hardly bites a master ?) and mutual bickering.
+
+There is zero empathy from the former class, and these pretentious people are the source of endless pain for the red-pilled; it is very disappointing to live in communities where the kids start speaking English before anything native, and worse when the state hold such clones in such high regard.
+
+May kek not have mercy on the clones (apologies for the 4ch lingo).
+
+Technical:
+
+I think Sailfish has better localization than Android. Keyboard is a disaster everywhere, since no one in India uses native language keyboard/input. They are very rare, if at all available, and next to no one knows they exist - it's in fact easier to find such resources in the US than within in India. Swarachakra is too crowded and very very information inefficient (unlike the 5-vowel Japanese system its based on), which leads me to believe even their creators don't use it actively.
+
+The lack of feedback means that the ITRANS layout is very very bad, and unusable (xkeyboard moth-balled most layouts due to disuse).
+
+Again, the roots of the problem lie with the education & state policies that are reinforced via state violence. China gets this right because India is a colony & it isn't.
+
+(Downvote all you want clone people; ???????????? !)
+
+[1] https://news.ycombinator.com/item?id=12237411
+
+
+India's Billion Digital Identities
+vthallam  2 years ago  comments
+I don't think anyone in GOI feels Digital India == aadhar. That's only part of it. Digital India is about creating the ecosystem which starts from providing Internet access, digitizing more govt services, creating awareness among rural population to sell their goods(my uncle sells cotton online through a govt portal now), access health care services etc. Farmers now get their alerts from Indian Agriculture dept, Irrigation dept etc.
+
+
+India's Billion Digital Identities
+intended  2 years ago  comments
+How is that got anythign to do with aadhar/uidia?
+
+Yes, change has happened, and it got much faster after the 1991 reforms, but what has that to do with digital india?
+
+Calling Jugnoo/uber/ola = companies serving customers.
+
+Pay bills for water/elec/banking = same as above.
+
+Residential ownership digitized - as are several other records, and this has been going on for a while.
+
+To get a phone you need proof of ID, and aadhar isnt the only one.
+
+BUT - in my life time I have seen it become compulsory to provide ID when you go to stay at a hotel (this is from before 2005), extensive ID to buy... well almost anything.
+
+Want to know who got what medicines, then got onto a flight, and went to which hotel, along with other persons who went to the same place?
+
+Well thats the system we are building.
+
+And the aadhar team has by design (and I know that some of those guys probably come to HN) created a "market place" style system. Anyone can and is supposed to use their infra to validate ID data.
+
+Thing is, I am old enough (and not even that old) to remember when you didn't need it. When there were not scanners in front of malls and in front of hotels (post 26/11 additions. I saw them come up).
+
+The west built their success with systems which worked, not tech magic bullets, and thats always what counts in the end
+
+
+India's Billion Digital Identities
+gnipgnip  2 years ago  comments
+The whole digitizing India is total and complete sham.
+
+Old Govt. offices atleast used to work, and had forms in local languages. Now, you need to have,
+
+- A scanner, to have all your documents scanned
+
+- A printer, to get a "printout" of the receipts
+
+- A computer with internet
+
+- A shit ton of patience, since the sites barely work.
+
+... and of course, all the forms are now only in English (courtesy of your "nationalistic" regime - you're welcome!).
+
+Of course, you'll still need to go to the Govt. office (where files provide for rat fodder and pigeon litter) to give them the receipts and stuff. I imagine, this is how most conversations end up,
+
+"No what do you mean you don't have a computer, or speak English ? Get out of here you pleb!"
+
+Digital India my arse. My parents are sick of this moronic hyped up shit - there is no fallback now either, nor is there some accessibility help. I can't imagine how this helps the mute 90%, if its such a bloody pain even to the top 5%.
+
+Now this UIDAI thing. Removing this massive big-brotherish database was on the election manifesto; instead Modi gave his blessing (he's after all a re-incarnation of Vishnu[2]) after coming under the spell of Nilekani. It's now being pushed heavily, ostensibly as some "magic wand" that can fix India's leaky bureaucracy - problems which in reality could've been fixed by simple bank a/c numbers.
+
+The Supreme court of India, which in the middle of its supreme quest to civilize the "barbarians", directed the state to make sure this additional layer be made non-mandatory; obviously this directive is routinely ignored.
+
+I'm extremely wary of this additional layer which was essentially pushed down our throats with barely any public consultation.
+
+It's anybody's guess how this kleptocracy will use such information in the future. I expect to see a massive roll-out of online censorship/internet spying in the future - even "liberals" [1] in India are calling for ID regulated internet access. Perhaps, once the time-servers are kicked out in '19, Madame, her highness, the Queen of India, Sonia Gandhi, and his highness, his excellency Sir. Rahul Gandhi, Prince of India, can bless us with this marvelous policies, and bring about another glorious age of slavery.
+
+[1] https://www.youtube.com/watch?v=C0OwfGzcYmo
+
+[2] https://www.youtube.com/watch?v=KwgMvbEyV_s
+
+
+ClearTax helps India file tax returns in ‘less than five minutes’
+arihant  3 years ago  comments
+The existing site is simple enough. Digital India would probably help these guys with Aadhaar auth, FACTA link for NRIs, and unified API.
+
+The issue with IT website is not simplicity or functionality -- it is the fact that it assumes you know what you're doing. Which is simple for a nominal case, but gets increasingly complex with a diversified income sources and portfolios.
+
+
+ClearTax helps India file tax returns in ‘less than five minutes’
+newsignup  3 years ago  comments
+Some hard questions: What are your plans post government's success of Digital India campaign and having their e-filing much more simplied? :)
+
+
+India Replaces China as Next Big Frontier for U.S. Tech Companies
+yati  3 years ago  comments
+This is great, but I do have some concerns:
+
+- The support for Modi's "Digital India" by Facebook looks like a rebranded Internet.org, which will have serious implications on net neutrality in India, affecting not only the users but also Indian Internet startups.
+
+- Packaging FB/Google/Twitter services for free consumption is unlikely to encourage more content creation from the masses.
+
+- Our IT Act, often in conjunction with our blasphemy and defamation laws, has repeatedly been used to silence citizens who dared to voice their opinions on the Internet. Let us please not be blind consumers of "curated" news tweets. Let us also fight for a right to create content, without being censored, on the Free Web.
+
+
+Ask HN: What do you think about internet.org – free basic internet by Facebook?
+techaddict009  3 years ago  comments
+Facebook thinks Digital India Campaign means Internet.org - https://www.reddit.com/r/india/comments/3mo5m5/internetorgpr...
+
+
+Mozilla’s Response to the Indian Govt's Committee Report on Net Neutrality
+anivar  3 years ago  comments
+<quote> As the Committee’s report discusses, a central pillar of net neutrality and a major contributing force to the Internet’s success has been the concept of “innovation without permission.” This concept, allowing anyone to develop a new technology, to write code and test in the public, and to control the code running on their machines is the lifeblood of the open Internet and the ethos of open source. As Mitchell wrote in regards to a similar proposal by the Telecom Regulatory Authority of India, any mandatory licensing scheme would prove onerous and “increase the costs of creating on the Web, thereby discouraging Indian entrepreneurs from building the next Internet giant. What’s more, establishing an enabling environment for development on the Web creates a virtuous cycle that provides more value to existing users and incentivizes new users to come online.” To this end, we respectfully caution you from proposing any licensing regimes on Internet services or Over-The-Top (OTT) applications, as doing so would only serve to create legal uncertainty, chill innovation, and hurt the promise of Digital India</quote>
+India elected Narendra Modi who is decidedly nowhere as educated as previous prime minister. The state I am from(Bihar) had series of Chief Ministers who weren't all the educated(or even intelligent as a matter of fact).
+
+For the most of India's political history leaders were about representing people and segments of society backward compared to already well of folks. So what matters really is what policy outlook you have.
+
+But you still have Jawaharlal Nehru who was the prime minister for 17 years, Manmohan Singh was for 10 years. Rajiv Gandhi and Indira Gandhi were both well read and groomed individuals. And you could say Indira was a far better Prime minister than we've had since Nehru.
+
+You have like a good 40 years of well read people running the country.
+
+>>I think people select their politicians differently than how they would select their Doctor or mechanic to repair their car or engine.
+
+No, its the same. If a person is a deep bigot, violence monger from within, he choses leaders who are best at that. Its just that intention doesn't show on people's faces. And whatever they may say outside, they vote with their hearts at the voting booth.
+
+>>The point is - smart people are not always likable and in a politician likability and ability to relate yourself to him/her(even if faked) are desired qualities.
+
+The Doctor analogy describes this better. You chose a good doctor to treat your heart. You don't go to a bad one whole smiles and cracks jokes.
+
+
+Leaked Executive Order Reveals White House Plans for H-1B Visas
+tn13  2 years ago  comments
+Since H1B is for skilled people, certain countries have developed infra for certain type of skill. India produces more software tech, Korea/Jp in hardware, Europe in fashion models and language teachers etc.
+
+But India is too huge and varied for a normal guy to fix issues. I am from south coastal area. These days i hear govt radio ads about "beti bacho" save girl child. Down here the idea of abortion because girl is not common at all( Does not mean they don't want a boy). Or having a toilet in house. Of course i don't the case in rural areas, most near by places would be considered as towns rather then rural area.
+The point is - smart people are not always likable and in a politician likability and ability to relate yourself to him/her(even if faked) are desired qualities.
+
+The Doctor analogy describes this better. You chose a good doctor to treat your heart. You don't go to a bad one whole smiles and cracks jokes.
+
+
+Leaked Executive Order Reveals White House Plans for H-1B Visas
+tn13  2 years ago  comments
+Since H1B is for skilled people, certain countries have developed infra for certain type of skill. India produces more software tech, Korea/Jp in hardware, Europe in fashion models and language teachers etc.
+
+
+Fears over the true state of China's economy
+rubberstamp  3 years ago  comments
+Modi, the current prime minister of India got into power with big majority as the coalition govt(UPA coalition) at the was too corrupt. Modi promised big reforms, like Obama when he got first elected, but nothing positive yet for the majority of population. He is some what pro business, but not enough pro business or pro masses to worth any applause. I don't think pro business and pro masses policy is mutually exclusive. So far it looks like his election campaign was just a marketing campaign to get elected.
+
+See gas price, crude oil price and rupee/dollar rate over last few years. *sorry about the formatting as this is html doesn't care about white spaces and <pre> tags doesn't work here
+
+year 10 11 12 13 14 15 today
+
+$ Crude 74 109 90 99 108 61 33
+
+Rs.gas 51 63 71 63 71 66 64
+
+$ vs Rs 46.2 44.7 57.1 59.2 60.2 63.4 66.8
+
+The prices are deregulated. But still even though crude prices has fallen so much, govt keeps retail gas prices costlier by increasing taxes. Taxes form the majority of retail gas price.
+
+Taxes vary between states, which is detrimental for business due to the amount of paperwork. Unified tax rate named GST was to be introduced(its not a law yet). The outrageous statement made by someone was that even though GST will charge uniform tax rate somewhere in the range of 14-18% gas prices will be kept out of its purview for the time being. The horror!
+
+But things are bright for India in the long term as youth have high education. All most all have college degree. There are press or internet censorship.
+
+
+Zuck, wash your hands
+kafkaesq  3 years ago  comments
+Can anyone with local knowledge comment on the following?
+
+In the days that followed the burning of the coach, riots broke out in Gujarat that left hundreds dead, most of them Muslims. As the massacre continued, journalists, activists and several senior police officers in Gujarat who spoke to the news media on the condition of anonymity said that Mr. Modi’s government was complicit in the violence. Mr. Modi, for his part, asserted that the violence was “a spontaneous reaction of the Hindus.”
+
+While reporting from Gujarat on the aftermath of the riots, I stumbled upon the fact that a senior minister in Mr. Modi’s cabinet, Haren Pandya, had testified in a shroud of secrecy before a tribunal that was investigating the cause of the riots. When I approached Mr. Pandya about this, he told me that he had told the tribunal that on the night of Feb. 27, Mr. Modi held a meeting with senior police officers and bureaucrats during which he is alleged to have instructed the police to allow the mobs to vent their anger on Muslims. It is a charge that Mr. Modi has consistently denied.
+
+Mr. Pandya, who was a political adversary of Mr. Modi, told me that he did not attend that meeting, but that other people who were present had told him what had happened.
+
+Months later, Mr. Pandya was found shot dead in his car. When Mr. Modi went to his house to pay his respects, Mr. Pandya’s widow told him he was responsible for her husband’s death and asked him to leave. But a few months later, several Muslim youths were arrested in connection with Mr. Pandya’s killing, and their motive was said to be vengeance for the riots. Twelve of them were later convicted of murder by a special court and sentenced, but the Gujarat High Court overturned the murder convictions, alleging flaws in the investigation. The Gujarat government and an investigating agency have since challenged this in the Indian Supreme Court.
+
+Shaking Off the Horror of the Past in India http://www.nytimes.com/2012/02/16/world/asia/16iht-letter16....
+
+
+Everything the Government Did to WikiLeaks Is Now Done to Mainstream Reporters
+olfactory  7 months ago  comments
+> Political discussions usually descend into arguments about competing values. People have different interpretations of the trade-offs, and the friction turns into a lot of heat, without much light.
+
+The same can be said for discussion of any topic that pulls in peoples' identities and not just their rational faculties. It's something we should strive to overcome through thoughtful discussion, feedback, and examples from the community of HN users, not something to suppress or avoid.
+
+Most people go through some period of time in their lives when they are highly emotional/irrational in their analysis of important factual information. It's something to be outgrown, not simply shut down.
+
+Sadly in this case, the mods have not outgrown it and they have been given moderation powers, and rather than respectfully engage with others they use those powers to suppress and intimidate, in the process decimating what was once an occasionally feisty but ultimately respectful community.
+
+It was truly bad judgment to give the mods such power. Unlike the youthful vision that makes young startup founders visionaries, the mods have youthful hubris and a strange, disturbingly machiavellian taste for authoritarian control.
+
+
+Youthful Brains in Older Adults: Contributes Youthful Memory in Superaging
+nabla9  2 years ago  comments
+Had to cut title to fit into 80 char limit :(
+
+Youthful Brains in Older Adults: Preserved Neuroanatomy in the Default Mode and Salience Networks Contributes to Youthful Memory in Superaging
+
+
+Doctors Baffled, Intrigued by Girl Who Doesn't Age
+keltecp11  10 years ago  comments
+I'm curious if her cellular systems rejuvenate or mend themselves... if she is forever in 'repair mode' maybe she IS the fountain of youth... or maybe we're all wrong and shes vampire?
+
+
+Why Amazon Hired a Car Mechanic to Run Its Cloud Empire
+114 points  roel_v  6 years ago  comments
+It's kind of frustrating that otherwise interesting articles like this get buried under misleading titles like this, with a guy who some 30 years once worked on cars (high-end, cutting edge cars - not changing oil and brake pads on VW Jetta's) now working for a company that didn't even exist when he was a mechanic being described as 'Amazon hired car mechanic'. Michael Dell used to stock shelves in his youth, should newspapers run headlines like 'shelf stocker taking computer manufacturer private in 25B leveraged buyout'? Please.
+
+</grump_mode>
+
+
+I’m writing my own OS
+82 points  bcantrill  6 years ago  comments
+Agreed; the criticism here is way too harsh. In particular, I think it's somewhat amusing that people are giving him grief for wanting to "jump to C as soon as possible." Any rational kernel developer wants to jump to C as soon as possible -- and wants as much of the system to be in C as possible. (Indeed, this is the ethos that drove Unix -- and separated it from the horrifically unportable systems that predated it.[1])
+
+Further, there are some good ideas here -- in particular, jumping directly to long mode allows one to avoid much of the replaying of the history of the PC that one is historically required to do to boot an x86. Most civilians (and I dare say, most of the negative commenters here) have NFI how ugly this process is and how much of a drag it is on future development. With the decline of the PC, it's reasonable to believe that a future is coming in which x86 becomes primarily a server-side microprocessor -- and begins to shed much of the baggage from the misadventures of the 1980s and 1990s.
+
+All that said: there is a certain arrogance of youth here, and one hopes that when reality has sandblasted it away, the resulting humility will find its way to a formal computer science education and ultimately into professional software engineering; our discipline needs more people who have dared to write an OS from scratch, not fewer.
+
+[1] http://cm.bell-labs.com/who/dmr/cacm.html
+
+
+Request for Startups: Kill Hollywood.
+42 points  jamesgatz  7 years ago  comments
+I love FFC. I'm a current UCLA film student - Coppola's alma mater. One thing to think about: UCLA has always been the "indy, intellectual" film school. It's our rep, internally and (to an extent) externally. When Coppola left UCLA to work in Hollywood, he was branded a sell-out by his fellow students.
+
+One thing to think about w/ this whole "crush Hollywood" thing is this: most of your favorite movies (assuming you've got a boner for the New Hollywood period like I do) were a result of an aging, out-of-touch entertainment monopoly making desperate, reactionary moves to save itself. The old system didn't work, the people in charge had no idea how to fix it, so they went crazy taking risks on young directors. FFC, Scorsese, Spielberg, Altman, de Palma, Lucas - all the really top-drawer American filmmakers, honestly - were a result of this period of blind desperation.
+
+There would be no Godfather without Hollywood. No Apocalypse Now. (also no Taxi Driver, no Star Wars, no Indiana Jones, no MASH or Nashville) In the absence of Hollywood, you get movies like Youth Without Youth and Tetro - two wonderful oddities, but you'd be hard pressed to make the case for them against Coppola's early masterpieces.
+
+The beautiful and horrible thing about Hollywood is that it's a system designed to throw huge stacks of cash at storytelling problems. It's fucking absurd, because money has never been capable of solving those kinds of problems - practice and gut instinct are what create good stories. But when strong storytellers are placed in an environment which supplies nearly unlimited resources, totally amazing things happen. Yes, we can all point to Heaven's Gate, New York New York, and Coppola's own One From the Heart, but flops like those are the inevitable flip side of the system I've just described: talented people can abuse unlimited resources just like anybody else.
+
+I guess what I'm saying is: I'd be seriously depressed if Hollywood were to vanish. Yeah, it produces a lot of shit, but its high water marks have never really been replicated by any other mode of production.
+
+
+Entrepreneurs are the New Labor
+28 points  CleanedStar  6 years ago  comments
+"Investors have won"
+
+Congratulations, after ten thousand years of struggle, the ruling class has finally won for good, permanent victory has been declared by - Venkatesh Rao.
+
+Marx says in the Communist Manifesto - "The history of all hitherto existing society is the history of class struggles. Freeman and slave, patrician and plebian, lord and serf, guild-master and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, a fight that each time ended, either in a revolutionary reconstitution of society at large, or in the common ruin of the contending classes."
+
+Marx had a point here about the long time span. In the Epic of Gilgamesh, written several thousand years ago, rulers are advised to capture new slaves from far-away, rural areas, as these slaves tend to be more passive. These issues have been around for a while - from that time, to the time of Pisistratus, and Spartacus and the Roman Servile wars, and the struggle between the optimates and the populares, to the German Peasants revolt of the 16th century up to this modern day - one may have noticed how large and militant the May Day rallies in Spain and Greece (unemployment is 26% in both countries) were. US drones in Afghanistan, Pakistan or the Boston marathon bombings - these struggles carry on over time.
+
+If one reads a lot of Marx (something John McCarthy said was a sign of a wasted youth), you see the point that just when some system is said to be completely victorious, it has usually peaked and is on a long downhill slide until something new comes along. Louis XIV was called the Sun King and is quoted as saying, L'Etat, c'est moi, but less than eighty years after his death, Louis XVI was guillotined in front of a crowd of revolutionary sans-culottes.
+
+Final victory is here for the investor...well, we will see about that...
+
+
+The Sad Reality of Post-Mature Optimization
+14 points  iamwil  7 years ago  comments
+http://the-witness.net/news/2011/06/how-to-program-independe...
+
+This was posted on HN recently. Skip to slide 18. In it, the guy talked about premature optimization, curiously, of the same thing: linear iteration over an array vs using a hash implementation.
+
+His example was that in his youth, he was on the Doom forums, and he was doing mods, and took a look at the code that loaded the different asset files. And he was abhorred that the code used an array to linearly iterate over to find the asset to load. He started complaining on the newsgroups, and then Doom guys said you don't know what you're talking about, etc.
+
+In this case, it was where that code just didn't matter in terms of run time, because the order of magnitude difference in looking up an asset and actually loading the asset was huge, and it just didn't matter. And because they used a dumb implementation, they could optimize for developer productivity and go on to code that mattered, like the rendering.
+
+That said, I think the thing to keep in mind is, which parts of your problem space is of the core importance, and keep an eye on difference of order of magnitude in the different solutions you were thinking about implementing
+
+
+35h work week fading as the average full-time work week in France nears 40h
+6 points  harrytuttle  5 years ago  comments
+I think you are externalising blame. The blame plainly sits with the business management.
+
+35 or 40 hours is really irrelevant, unless you are the employee.
+
+The problem comes down to the fact that most humans are rubbish at what they do or don't care, businesses look at short term cash flow rather than long term investment or the business isn't viable to start with. The typical failure scenarios are:
+
+1. They hire the cheapest people who will do the work then whinge when they have to hire two people to cover that time because the first person is inefficient, incompetent or disinterested in it.
+
+2. They hire humans rather than make a long term investment in automation or subcontracting services out.
+
+3. The business isn't really viable. So costs are cut and the business scrapes along.
+
+Do you understand that the large youth unemployment many countries face is because of such policies you applaud?
+
+The large youth unemployment is due purely due to the fact that the governments support people who don't aim to work in society. They are not employable, apart from by businesses described in case (1) above at which point they self-perpetuate the failure mode.
+
+Businesses need to stop blaming everyone else for their own failings and start looking in the mirror. If a business is failing, then it's mismanaged, isn't hiring the right people or is not viable. Not all businesses can be successful.
+
+For ref, I've built and sold three SME businesses. I now work for another one as a major stakeholder.
+
+
+Some dark corners of C
+6 points  to3m  6 years ago  comments
+I think C might make more sense if you are more familiar with assembly language. I learned C because real-mode x86 looked so fantastically ugly (looking back, a rare instance of youthful good taste). 0-terminated strings and stack allocation were quite familiar to me (though I never used stack allocation myself because it made the disassembly hard to read) and the overall model made perfect sense.
+
+
+StarCraft: Orcs in space go down in flames
+6 points  padobson  6 years ago  comments
++1, "Kicking it into mode 7" was one hell of way to spend a Saturday night.
+
+There's no youth like nerd youth.
+
+
+Ask HN: What music do you listen to while programming?
+1 points  logn  4 years ago  comments
+    Ace Of Base, Air France, Alanis Morissette, Alors Danse, Alors On Danse, Alphaville, Aphex Twin, Apparat, Araabmuzik, Band of Horses, Baths, Battles, Baxter, Bear In Heaven, Beastie Boys, Benny Benassi, Better Than Ezra, Black Devil Disco Club, Black Moth Super Rainbow, Blind Melon, Boards Of Canada, Bob Marley & The Wailers, Booka Shade, Bush, Candlebox, Caribou, Celly Cel, Chamillionaire, Chromeo, Client, Clubfeet, Cobblestone Jazz, Com Truise, Copy, Counting Crows, Crystal Castles, Cut Copy, Daft Punk, Darkstar, Dave Matthews Band, David Bowie, David Guetta, Deadmau5, Deep Blue Something, Delorean, Depeche Mode, Dev, Dieselboy, Digitalism, DJ Khaled, DJ Screw, Drake, Dr_ Dre, Eat Static, Echotek, Electric Universe, Eliot Lipp, Ellen Allien & Apparat, Ellie Goulding, Eminem, Fatali, Felix Da Housecat, Felix Laband, Ferry Corsten, Fischerspooner, Four Tet, Fractal Glider, Fuck Buttons, Gardens & Villa, Gary Numan, Gemini, Genghis Tron, Gin Blossoms, Glass Candy, Gnarls Barkley, God Is an Astronaut, Gold Panda, Gotye, Grand National, Grateful Dead, Grimes, Guns N' Roses, Health, HEALTH, Hella, Holy Ghost!, Hydra, Imogen Heap, Infected Mushroom, Jack Johnson, Jay-Z, J_Cole, Jeff Samuel, Jewel, John Mayer, Junior Boys, Justice, Kanye West, Katy Perry, Ke$ha, Keith Fullerton Whitman, Keller Williams, Kennedy, Kid Cudi, Kiln, Kraftwerk, Ladytron, Lali Puna, Lana Del Rey, La Roux, LCD Soundsystem, Lightning Bolt, Lil' Wayne, Lily Allen, Lindstrom, Lindstrom & Prins Thomas, Live, Lorn, Luna, Lusine, Lykke Li, M83, Marvin Gaye, Medeski_ Martin & Wood, Memory Tapes, Metric, Metro Area, MGMT, M_I_A_, Michael Jackson, Midwest Product, Mike Watt, Miles Davis, Moby, Modest Mouse, moe_, Moving Units, Mylo, Natalie Merchant, Neon Indian, New Order, Nine Inch Nails, Nirvana, Oasis, Parts and Labor, Passion Pit, Peaking Lights, Pearl Jam, Phantogram, Phil Collins, Phish, Phoenix, Prince, Prometheus, Radiohead, Ratatat, Real Estate, Red Hot Chili Peppers, R_E_M_, Rick Ross, Rihanna, Röyksopp, Rusted Root, Salem, Santigold, Scarface, Shooting Spires, Silver Swans, Skrillex, Sleigh Bells, Small Black, Snoop Doggy Dogg, Solar Fields, Son Of The Electric Ghost, Soundgarden, Steven Wright, Stone Temple Pilots, Sublime, Submarines, Superpitcher, System 7, Teebs, Teengirl Fantasy, Telepathe, Tennis, The Asteroids Galaxy Tour, The Avalanches, The Chromatics, The Cranberries, The Cure, The Dandy Warhols, The Dude Of Life, The Field, The Fitness, The Glitch Mob, The Killers, The Knife, The LK, The Notorious B_I_G_, The Notwist, The Polish Ambassador, The Rapture, The Samples, The Smashing Pumpkins, The Sounds, Ticon, Tiesto, Timbaland, Tim Hecker, TOBACCO, Toro Y Moi, Tycho, Tyga, Ulrich Schnauss, Underworld, Van She, vibrasphere, Vitalic, Washed Out, Weezer, We Love, YACHT, Yelle, Youth Lagoon, Zero 7, Zoot Woman
+
+[ask hn]How many of you are dropouts?
+1 points  VLM  5 years ago  comments
+Unfortunately I assure you nothing changed in the 90s or 00s WRT teaching yesterdays fads, tomorrow.
+
+Maybe its better in the 10s.
+
+I did the night school / online thing nearly a decade ago after having been in the field a little longer than yourself. What I enjoyed the most was variety. Some schools don't have many electives, avoid those.
+
+I got an associates degree when I initially got started. 99% of hiring managers consider that toilet paper if not used toilet paper. That's "OK" because after your first real job no one cares about degrees anymore. It just makes the initial job search, pure hell. The only difference between an associates and a bachelors is about 32 credits of liberal arts, lots of math, and some random stuff (public speaking, survey of engineering, business 101, that kind of thing). I was kind of pissed off at not getting transfer credit for my FORTRAN and COBOL classes, I got to take some intro to programming C++ classes in the early 00s, that was, um, interesting, it was very easy but still very time consuming.
+
+Liberal arts are wasted on the youth. For example I hated history class in 8th grade, absolutely loved college level history when I was about 3x that age. Lit classes were awesome. You'll hear a lot of 19 year olds on the HN echo chamber mode telling each other that liberal arts classes are a waste of time, that kind of talk goes away once (or if?) they age and get some wisdom.
+
+
+The Human Wealth of Nations
+1 points  VLM  5 years ago  comments
+One fundamental problem is massive underemployment. Another is a failing educational system in bubble mode means no one on the planet pays more while getting less. Another problem (related to #2) is the monetary costs of the failing educational system are financially crippling our youth and the guaranteed loans that will never be paid back will financially cripple everyone else.
+
+So your solution is individuals who are headed for a cliff, should step on the gas and to fling over it faster. After all, if it doesn't work, keep trying it over and over until it does. And I'm the inhumane one LOL.
+
+I will say if a system is inevitably crashing, then its best to accelerate the process so as to reach the recovery quicker. The sooner we have a big crash, the sooner we can pick up the pieces and start living again. So in that way you are correct, the best thing kids can do "for everyone" is financially immolate themselves, because in the long run that'll bring on the crash (and hopefully, recovery) quicker. If that is your analysis then by its conditions, I admit you are correct, under those specific conditions, although I'd hate to be one of the individuals being crushed for the betterment of everyone else.
+
+
+Reddit has the killer social network feature: anonymity
+1 points  samstave  5 years ago  comments
+I agree that it is unobtainable.
+
+I mode one of the top 50 /r/ on reddit, as well as some much much smaller ones. I have multiple accounts - but not in a gaming-the-system sense; I had a primary account and a novelty account... I wound up posting "primary" comments under my novelty account by mistake after leaving myself logged in with that account some time ago... now my novelty is my primary and my primary is dormant.
+
+In the smaller /r/ I mod - I post instructional vids, and google linked them back to my real name. Even though I have an anonymized account for youtube, I also have a real-name account.
+
+Once when posting, for reasons which are obfuscated by google, my uploads went to my real-name account which I posted to reddit...
+
+So... ultimately, its easy to tie all these together as strong-selectors back to me :(
+
+I have an idea on how to deal with tracking which may completely eliminate the ability to track a browser, but the issue is that even with 100% anonymity of an account on a site like reddit, ultimately you will post something that connects that account to your real-ID.
+
+
+Timbuktu Libraries in Exile
+1 points  jk4930  6 years ago  comments
+It doesn't matter whether people are aware of uncertainties in their holy scriptures or not. It matters whether they have demographic issues (youth bulge) or (coming) economic problems. The spread of fundamentalist memes requires a susceptible population (or subgroup of it) that is ready to go into war mode (either civil or imperialist war).
+
+
+"Gun" "Control"
+1 points  SparrowOS  6 years ago  comments
+God is just. We put God on TV, crime goes to zero and we fire all cops.
+
+God says... shone presence Forsake fitting Thyself twice substance sharp walked manna pierce etexts pulse everything unlicensed day-break likewise exacted exhort Cup unarranged observes Excellently Please absorb huge need confessions- upward quicken spending profitable false-named worketh rent journey disentangled joined maintainers except Victim lodging reneweth wander healeth action mode boundary see' self-willed bend Apostle hinder associate contemporary immutable password thereupon beholder Romanianus Foundation consistently Sweden gladness profited strength deformity youthfulness impatient Terence smiled intercession prevailing donations storing failure cruelty withering spokest yielded stealth execrate tenor NUMBER forehead are_you_feeling_lucky Holy fulfils mightily joyful members salt right-doing dull born tookest displace Angel congregations hung hay recognises corporeally appearance sounder concupiscences Lay Eat no_more estimated reclaim This simplicity interpose Either solemnise floods beating whiner heardest resolutely Babylon tends repel contentious rejoicing joining thick looks bridle NEGLIGENCE criticising hilarious divide exhortation false-named Refund perceivable robing variation classics compactedst robbery Tajikistan approveth restraining owes If flows ETEXT OF most aptly deliver burning acting wail danger indignant sung omnium Great_Britain borrow stricken
+
+
+Peter Thiel gives new class of students $100K to forgo college
+1 points  waterhouse  7 years ago  comments
+Regarding that quote about Rhodes Scholars--since no one has mentioned it yet, I will mention the phrase: "regression to the mean". If, from a diverse population, you select a subpopulation with high scores on trait X measured by some noisy test, and you then re-test them sometime later (so that the noise is generated by fresh randomness the second time), you will likely find that they score worse. This is because it is likely that the subpopulation you selected mostly benefited from the noise, and being lucky the first time is unrelated to being lucky the second time. (That's one way to characterize luck.)
+
+The regression-to-the-mean effect is obviously proportional to the ratio of "noise" to "intrinsic qualities". If the amount of noise is close to zero, then the regression will be small; if the noise is gigantic or the intrinsic quality is zero, then the regression will be almost complete. To illustrate the second case, you might imagine a population rolling six-sided dice, and a silly researcher selecting all those who rolled sixes and being astonished that their average had dropped to 3.5 on the second roll. If you then imagine that each person had a private number from 0 to 50 that they added to their die rolls, then the test suddenly becomes much more meaningful.
+
+With that in mind, we can hope to be more than simple-mindedly impressed or simple-mindedly cynical about Rhodes Scholars, child prodigies, Thiel Fellowship recipients, and so on. How much "noise" is there, and what can be done about it?
+
+For example, suppose that they're looking for people who do amazing things. Suppose that most people who do amazing things do them because they're interested in them, and that there's a bunch of pseudo-randomness in what you happen to be interested in. Then... they'll pick a bunch of people who just happened to be interested in doing things that the scholarship people found amazing. What will these people be interested in doing next? there's a good chance it'll be completely not-amazing. (Yes, some people have a deep, established interest in some field that is unlikely to change--but even within a field or subfield, you will find interesting things that are amazing and interesting things that are not.) In that case, either they will look disappointing, or they will decide (probably due to feeling pressure) to try to work on amazing things even if they're not interesting. I doubt if it's impossible to pull off the second option, but it is (by stipulation) a significant mode change for these people, and some received wisdom[1][2] says it's not likely to go well.
+
+I hope that, instead, they are looking for people who have intense interests and great natural ability, and will try to shelter them from external pressure to produce "amazing" things, and that this press release is just crap they put out to please the media. Meanwhile, I guess there might also be successful people who thrive on that kind of pressure... I just identify most strongly with the first group. Also, it probably is a good thing to celebrate people's achievements. It just carries some danger with it...
+
+Anyway, I've described one type of amazing youth for which their apparent amazingness depends significantly on a capricious factor (what they're interested in). I'm confident about my qualitative description, because I know myself and some other people that I think are of this type. How significant is the interest factor? how capricious is it? can interest be deliberately controlled to some extent? Are there other types of amazing youth? is their current amazingness also subject to significant amounts of randomness? This, at least, would enable us to judge how much disappointingness we'd expect simply from the regression-to-the-mean principle.
+
+Do people do serious scientific investigation about this sort of thing? Seems like the Thiel Foundation had better, given that they're working in this exact field. But charity-style things probably don't have systematic incentives to perform well... maybe we can hope that Peter Thiel will apply the kind of ruthless determination to succeed that I feel he has [maybe they're in fact selecting youths who exhibit this trait, which certainly seems it'd be more deterministic than "interest"], and figure this stuff out.
+India's Billion Digital Identities
+gnipgnip  2 years ago  comments
+The whole digitizing India is total and complete sham.
+
+Old Govt. offices atleast used to work, and had forms in local languages. Now, you need to have,
+
+- A scanner, to have all your documents scanned
+
+- A printer, to get a "printout" of the receipts
+
+- A computer with internet
+
+- A shit ton of patience, since the sites barely work.
+
+... and of course, all the forms are now only in English (courtesy of your "nationalistic" regime - you're welcome!).
+
+Of course, you'll still need to go to the Govt. office (where files provide for rat fodder and pigeon litter) to give them the receipts and stuff. I imagine, this is how most conversations end up,
+
+"No what do you mean you don't have a computer, or speak English ? Get out of here you pleb!"
+
+Digital India my arse. My parents are sick of this moronic hyped up shit - there is no fallback now either, nor is there some accessibility help. I can't imagine how this helps the mute 90%, if its such a bloody pain even to the top 5%.
+
+Now this UIDAI thing. Removing this massive big-brotherish database was on the election manifesto; instead Modi gave his blessing (he's after all a re-incarnation of Vishnu[2]) after coming under the spell of Nilekani. It's now being pushed heavily, ostensibly as some "magic wand" that can fix India's leaky bureaucracy - problems which in reality could've been fixed by simple bank a/c numbers.
+
+The Supreme court of India, which in the middle of its supreme quest to civilize the "barbarians", directed the state to make sure this additional layer be made non-mandatory; obviously this directive is routinely ignored.
+
+I'm extremely wary of this additional layer which was essentially pushed down our throats with barely any public consultation.
+
+It's anybody's guess how this kleptocracy will use such information in the future. I expect to see a massive roll-out of online censorship/internet spying in the future - even "liberals" [1] in India are calling for ID regulated internet access. Perhaps, once the time-servers are kicked out in '19, Madame, her highness, the Queen of India, Sonia Gandhi, and his highness, his excellency Sir. Rahul Gandhi, Prince of India, can bless us with this marvelous policies, and bring about another glorious age of slavery.
+
+[1] https://www.youtube.com/watch?v=C0OwfGzcYmo
+
+[2] https://www.youtube.com/watch?v=KwgMvbEyV_s
+
+
+A Mexican architect has a vision for a city straddling the U.S.-Mexico border
+yummyfajitas  2 years ago  comments
+No, coalition voting is when political parties promise to support some of each other's policies in order to seize and share power.
+
+Tribalism isn't about policy and it's concrete effects at all. Here's a great Howard Stern interview about it. The gist is that Obama asked a bunch of NY folks whether they support Obama because he wants to stay the course in Iraq or because he's pro life? His supporters agree with him on both policies and are glad he chose Sarah Palin as his VP. (The one McCain supporter in NY was no better.)
+
+https://www.youtube.com/watch?v=GqAiarOhC2U
+
+Similar sketch from 2012: https://www.youtube.com/watch?v=SeJbOU4nmHQ
+
+Tribalism isn't about policy. It's about identity and it seems to be the primary driver of voting. Trump is incoherent, and insofar as he had any concrete policy goals he's backed away from them (e.g. the giant wall of ice). But he shows respect to Vaisya Americans [1] so they support him. I imagine that if I spoke to typical white Trump supporters they would probably be as incoherent as Obama voters in Stern's interview.
+
+This is also why Modi had to go so heavy on Hindutva to get support. "Toilets First, Temples Later" will help far more people, but he needs to ensure strong support among tribalist voters too.
+
+Or even to go with your example, ask why people who incorporate "black" or "non-racist righteous white person" into their identity care so much about blacks being killed by police, and so little about blacks being killed by black civilians? That's directly comparable to the level of attention rural/suburban whites give to terrorism vs murders by rural white civilians. The former is an attack on our tribe by outsiders, the latter isn't.
+
+[1] I'm taking the term from this article. In the US we deny these concepts so strongly that we don't even have words to describe them; as a result Moldbug had to borrow Indian words when discussing it. http://unqualified-reservations.blogspot.com/2007/05/castes-...
+
+
+India is set to launch a scale model of a reusable spacecraft on Monday
+ramgorur  3 years ago  comments
+some people in india are saying this might be a lousy propaganda, no one knows what, you can never be 100% sure of what modi government says (or does).
+
+But, let's say I have enough money and man-power to build a nintendo-ds and a hygienic toilet, moreover assume, I don't have either. Also assume, I go outside my home to take a dump on the street (or behind a bush), but I also want to play super-mario-bros on the nintendo-ds at the same time. which one should I build first? obviously the toilet, right?
+
+before making a reusable spacecraft, we should spend some rupees on making some good toilets --
+
+https://www.youtube.com/watch?v=ixJgY2VSct0
+
+we should be more serious about prioritizing the issues that we want to spend the tax-payers' money on.
+
+
+Announcing Minecraft: Education Edition
+TheGRS  3 years ago  comments
+I think there's some good dialog here, but I wanted to offer my own experience as a volunteer (I've been wanting to get around to writing a blog post about this topic actually!).
+
+First of all, kids love Minecraft. And I mean LOVE it. Its ubiquitous amongst them. I tried to come up with an analogy to my own youth, but I can't. Its not a flash-in-the-pan fad like pogs were and its not Pokemon or Magic. I have met a handful of kids who did not have experience with Minecraft, but they almost always know what the game is at least.
+
+I helped put together a few little Minecraft camps and workshops armed only with my own personal knowledge of the game (I too was an early adopter of the game) and a handful of mods. The first couple of camps I tried were pretty poor execution on my part. The kids usually found ways to mass-spawn monsters or create The End portals and generally stayed unfocused. They were way more interested in dinking around the game than doing anything productive.
+
+But then we put more structure around it and locked some of the features down with mods. They kids were tasked with creating a city, so I plotted out a flat grid of land and gave each of them access to a city block (sometimes 2 or 3 of them would get to share a block). It took a few sessions, but they made a pretty cool looking city. And for the most part locking down the areas kept them on task.
+
+Recently I helped out with a camp that let the kids choose between building structures, creating mini-games, or programming. The programming part was mostly using the ComputerCraft mod[1], which was pretty much like turtle. You could program a robot block to mine or build for you. The potential here is pretty huge for kids to get into programming from a very early age who normally wouldn't since its very accessible (think Scratch, but in a game they already love).
+
+What I keep reminding myself though is that Minecraft is yet another great, accessible, family-friendly game that can help introduce kids to computers very early. There will be a certain percentage who take it to the next level and learn how to create simple java mods for the game. There is potential for some to craft huge sculptures and cities and generally expand their artistic skills. I think there is a very real connection between many people who love programming today who also loved playing games in school like Oregon Trail and SimCity, that's the potential for Minecraft imo. So even when they aren't totally being focused and are just playing around in the world, its giving them a friendly impression of what computers can ultimately do.
+
+[1]: http://www.computercraft.info/
+
+
+Can India modernize without relying heavily on coal?
+shripadk  3 years ago  comments
+This article is very informative but at the same time heavily biased towards the opinions of Jairam Ramesh who happens to be a member of the Indian National Congress (the party that lost power in 2014 after a 10 year misrule in India). For instance he says “We cannot afford to say, ‘We’re going to have 25 years of 8 percent GDP growth, then do a cleanup act later.’”. This is wrong on multiple fronts. The GDP of India was at 8.5% during the NDA rule (1998-2004) and after the INC came to power the GDP tumbled to an abysmal 5.3%. After NDA came back to power in 2014, the GDP is now up to 7.4% which is in itself an impressive feat. If this continues, we'll be seeing a GDP of 12% with some reports (Centre for Economics Business and Research (CEBR), United Kingdom) even projecting India to become the 3rd largest economy by 2030 right behind US and China. But obviously this is something the opposition (INC) doesn't want to acknowledge.
+
+The Village of Modern India is not the same as Ancient times. Today people live in villages not by choice but out of necessity. The high cost of living in the cities coupled with high rate of unemployment forces this large chunk of the population to live in slums and villages. India is poised to have, via the Smart Cities Mission lead by Narendra Modi, 100 smart cities (with some already in the pipeline: Dholera SIR in Gujarat (https://www.youtube.com/watch?v=jOFpWFLSqgU) and Amravathi in Andhra Pradesh) and rejuvenation of 500 others in the next 15 years which would facilitate movement of the unemployed population from villages/slums to these Smart Cities. We have seen this happen, for example, during the real estate boom in Bangalore, where entire population of some villages in North Karnataka moved to Bangalore because of employment opportunities in the construction sector. This will put less pressure on the power companies to supply power to the remotest corners of India when it's population relocates more and more towards cities.
+
+
+Amazon wins streaming rights for Thursday Night Football
+patrickk  2 years ago  comments
+I haven't seen it, so I can't comment. I've seen lots of people complaining about BBC's "new" Top Gear with the new presenters, apparently it's lost all it's character.
+
+The best car show at the moment (IMO) is Mighty car mods on Youtube, a pair of Aussie lads who love Japanese cars. They're absolutely hilarious and actually are really knowledgeable about cars.
+
+
+Russia’s new FindFace app identifies strangers in a crowd with 70% accuracy
+bduerst  3 years ago  comments
+They lied about persecution of gays and sex workers. The article was about a small group created to raise awareness about face recognition by trying to identify porn actresses, before closing entirely. Hardly a nightmare made real.
+
+I'm also not sure how YouTube mods from 10+ years ago are relevant in a discussion about tech advancement. If anything, the automation of child porn detection since is proof that technology keeps up and prevents nightmare scenarios.
+
+Also, why create the new account to question?
+
+
+Battle.net 2.0: The Antithesis of Consumer Confidence
+Dove  9 years ago  comments
+I agree. Hardcore players build maps, build websites, make clans, write reviews, organize competitions, write tactics guides, build mods, make funny youtube videos. They are the difference between a product you play for 30 hours before discarding and one you play nightly for three years constantly demanding that all your friends play with you.
+
+
+Microsoft Near Deal to Buy Minecraft Maker Mojang
+27 points  freshyill  4 years ago  comments
+My kid loves it, but I'm the one who has to deal with the mods and the shitty YouTube videos and ad-filled garbage forums made by a community that's somehow never heard of GitHub.
+
+Hopefully Microsoft can reign in all of that crap and make the game less of a nightmare to maintain.
+
+
+YouTube's Copyright Protection System Is a Mess
+tcd  5 days ago  comments
+There are other platforms, like Vimeo or Dailymotion, why aren't people uploading there? Because there's no audience and Youtube is so widely integrated (iOS, Android, Smart TVs etc).
+
+But if another platform got to Youtube's size, it would have the exact same issues, with having a fragile automated system, and not enough human reviewers (too much content, humans are expensive and error prone).
+
+There's no ideal or perfect system for monitoring audio/visual data, look at Reddit for example, I can ban you because I am bored, or I dislike you, or because I want to censor you.
+
+What can you do about it? Nothing. Who cares? Nobody, Reddit carries on as usual.
+
+r/videos mods can control which Youtubers get traffic, ironically enough. They can automod channels/posters away 'just for the lolz'.
+
+
+ISRO Mars Orbiter Mission: Spacecraft successfully enters Martian Orbit
+15 points  swatkat  4 years ago  comments
+MOM spacecraft was launched last year (5th Nov 2013) and today it entered into Martian orbit. Here's the twitter handle of spacecraft: https://twitter.com/MarsOrbiter
+
+Mars Orbit Insertion was covered live on ISRO webcast (http://webcast.isro.gov.in/), Doordarshan National TV and other channels. Here's the complete coverage of MOI: https://www.youtube.com/watch?v=VZL_Vwy0JqI
+
+MOI sequence of events: http://spaceflightnow.com/mars/mom/status.html
+
+MOM carries five scientific payloads: http://www.isro.org/mars/payload.aspx
+
+Expecting first set of colour pictures from MOM by today evening (IST) :)
+
+
+Ask HN: How are you teaching your children programming?
+mverwijs  a year ago  comments
+First get them hooked on minecraft. They'll use youtube to learn about mods and plugins. And a few years later they're downloading Eclipse and starting to code their own plugins again using youtube to learn how.
+
+True story.
+
+
+How I Made My Own iPhone in China [video]
+Animats  2 years ago  comments
+All those people and all that parts infrastructure, just to repair and recycle one brand of phones. Phone repair training school with posters of iPhone boards on the wall. All those shops selling phone parts. All that specialized equipment for servicing them. I like the "bubble removing" machine, a heated vacuum chamber. It looks like mid 20th century automotive, when there were corners with four gas stations that actually could fix cars, and many automotive machine shops.
+
+Why should phones break? It's not like they can't be made much tougher.[1] The real question is, why do people put up with such fragile phones? Is this an interim stage of the technology? Does this stop when iPhone N+1 comes out and the reaction is "yawn?"
+
+So what does all that Shentzen parts retail look like when you're building something new? Can you go into those buildings with a bill of materials and come out ready to load your pick and place machine? Can you get boards fabbed one-off while you wait? Or is it all about repair and simple mods?
+
+[1] https://www.youtube.com/watch?v=mVPku-xItv8
+
+
+Logic Production Systems: A new mixed logic/imperative programming language
+notthemessiah  2 years ago  comments
+I recall trying a few mods that made Kerbal Space Program programmable so you can automate your rocket (Some have used it to make SpaceX-style reusable boosters: https://www.youtube.com/watch?v=sqqQy8cIVFY), and mods that provided a domain-specific language were more convenient than mods that used an existing conventional programming language. However the kOS language was still ultimately an imperative script, and too inflexible to be a complete programming language. It got me thinking about what kind of language would best be suited for the purpose of controllers (I was also writing PID controllers at the time), and I noticed there wasn't a language for it.
+
+I also recall a Minecraft mod called ComputerCraft where you program a "Turtle" (a la Logo) to perform automated digging actions, but the task of programming it in the easily-embedded Lua proved somewhat inconvenient for simple actions, if only for the ALGOL-style syntax. Another mod tried Forth, but get the sense that while one could be productive in Forth, it's a lot to learn.
+
+The developers have already incorporated it in a proof of concept game: https://bobthesimplebot.github.io/, but I could imagine RTS style games or mods where you not only have to scavenge for resources, you also program your bots to do your bidding, like Dwarf Fortress with programmable drones instead of independently-minded Dwarves.
+
+
+Alphabet Shakes Up Its Robotics Division
+michaelt  3 years ago  comments
+In 'serious academic' robotics, if you only have one hokuyo urg lidar [1] and one xsens mems imu [2] you're on a low budget project and you'll probably need a bunch more sensors before your product can operate reliably unattended. But you've already spent ten times the cost of an entry level roomba.
+
+The kind of butler robot we can make today [3] would seem extremely expensive for the functionality it could offer, making it hard get the sales needed to recoup your up front engineering costs - let alone to achieve the economies of scale needed to bring down the price on those sensors.
+
+[1] http://www.robotshop.com/en/hokuyo-urg-04lx-ug01-scanning-la... [2] http://www.newark.com/xsens/mti-20-2a5g4/mems-module-3d-moti... [3] https://www.youtube.com/watch?v=tODGHw8uNnY
+
+
+New gTLD Applied-For Strings
+40 points  seiji  7 years ago  comments
+Google wants: .ads, .and, .android, .app, .are, .baby, .blog, .boo, .book, .buy, .cal, .car (no .cdr?), .channel, .chrome, .cloud, .corp (great way to snoop on poorly configured intranets), .cpa, .dad, .day, .dclk, .dds (New: Google Dentist!), .dev, .diy, .docs, .dog, .dot, .drive, .earth, .eat, .esq, .est, .family, .film, .fly, .foo, .free, .fun, .fyi, .game, .gbiz, .gle, .gmail, .gmbh (really?), .goo, .goog, .google, .guge (what?), .hangout, .here, .home, .how, .inc (really?), .ing, .kid, .live, .llc (really?), .llp, .lol (wtf?), .love (...), .mail (ambitious much?), .map, .mba (you can have them all), .med, .meme, .mom (awww), .moto, .mov (quicktime extension!), .movie, .music, .new ('nother file extension), .nexus, .page (web or larry?), .pet, .phd (duh), .play, .plus, .prod, .prof, .rsvp, .search, .shop, .show, .site, .soy, .spot, .srl, .store, .talk, .team, .tech, .tour, .tube, .vip, .web, .wow, .you, .youtube, .zip (file extension), ., ., .
+
+What the holy hell? Did google just have an employee suggestion box and they applied for all submitted names?
+
+Apple wants: .apple
+
+Microsoft wants: .azure, .bing, .docs, .hotmail, .live, .microsoft, .office, .skydrive, .skype, .windows, .xbox
+
+Microsoft is just defending their own brands.
+
+Only two applicants for .sex (and one for .sexy)
+
+Amazon wants: .amazon, .app, .audible, .author, .aws, .book, .bot, .box, .buy, .call, .circle, .cloud, .coupon, .deal, .dev (nice way to snoop on poorly configured corporate dns too. in competition with google), .drive, .fast, .fire, .free, .game, .got, .group, .hot, .imdb, .jot, .joy (smells like zappos), .kids, .kindle, .like (only applicant), .mail, .map, .mobile, .moi, .movie, .music, .news (google didn't apply for .news), .now, .pay (dangerous), .pin, .play, .prime, .read, .room, .safe, .save, .search (woo), .secure, .shop, .show, .silk, .smile (aww), .song, .spot, .store, .talk, .tunes (ha!), .tushu, .video, .wanggou, .wow, .yamaxun, .you, .yun, .zappos, .zero, ., ., ., ., ., ., ., ., ., .
+
+Amazon is part brand defense and part what-the-hell-are-you-doing too.
+
+There will be no winners here. The best thing they can do now is cancel the idea of corporate TLD ownership.
+
+
+Doom released 20 years ago today
+38 points  terhechte  5 years ago  comments
+I just finished "Masters of Doom" a couple of days ago, and I've been on a sort of Doom/Quake/id/Carmack/Romero information frenzy ever since. It is beginning to consume almost too much of my time but very fulfilling since I was a huge Doom fan back when it came out (I created many levels and mods) and I also really liked the early Quake games.
+
+So in the past weeks I read up on all the early id guys, and what became of them after they were fired or left, I did quite some (probably too much) reading on the mess that was Daikatana and how it came to be. I actually find this really interesting, to learn how a project backed with so many employees and so much money can fail so badly, there're probably lessons to learn here (I've even watched somebody play through Daikatana on Youtube).
+
+While being on my search, I've found a lot of interesting or not so interesting things. So if you want to spend some time, here's an unordered list of trivia that I stumbled upon:
+
+- Somebody playing through Daikatana: <a href="http://www.youtube.com/watch?v=nm3b0NJzhnQ\" rel="nofollow\">http://www.youtube.com/watch?v=nm3b0NJzhnQ</a>
+
+- Romero Himself on Daikatana, including a GB port of the game that actually got good reviews (never made it to the US though) <a href="http://rome.ro/games_daikatana.htm\" rel="nofollow\">http://rome.ro/games_daikatana.htm</a>
+
+- Awful public clash between John Romero and Mike Wilson (former Ion Storm Marketing guy): <a href="http://www.kotaku.com.au/2008/01/gamecock_head_tears_into_john_romero_its_getting_ugly-2/\" rel="nofollow\">http://www.kotaku.com.au/2008/01/gamecock_head_tears_into_jo...</a>
+
+- Ravenwood Fair is a Facebook game that Romero did a couple of years ago (so that's what he's been up to recently): <a href="http://en.wikipedia.org/wiki/Ravenwood_Fair\" rel="nofollow\">http://en.wikipedia.org/wiki/Ravenwood_Fair</a>
+
+- If you read Masters of Doom, you'll remember that it all started at Softdisk, when Carmack and Hall created "Dangerous Dave in Copyright Infringement", a Super Mario Bros copy. Romero uploaded the original game including their level editor, you can find it here: <a href="http://planetromero.com/games/dangerous-dave-in-copyright-infringement\" rel="nofollow\">http://planetromero.com/games/dangerous-dave-in-copyright-in...</a>
+
+- Unreleased Doom Midi Music Files: <a href="http://planetromero.com/2007/06/doom-archaeology\" rel="nofollow\">http://planetromero.com/2007/06/doom-archaeology</a>
+
+Sadly, the original Doom editor, DoomEd was never released. I read that it wasn't particularly good (compared to what is available nowadays) but since it was written in NeXTSTEP, I'd love to port it current OSX (or at least give it a go).
+
+
+What a 600,000-megapixel-wide picture looks like
+38 points  nakedrobot2  5 years ago  comments
+Hi, I'm the photographer who made this image.
+
+Thank you for all the attention :-) Let me try to answer some of your questions, in no particular order:
+
+1) Here is the original page: http://360gigapixels.com/tokyo-tower-panorama-photo/ also here is a youtube screen capture showing a few highlights, if you are feeling lazy ;) https://www.youtube.com/watch?v=NboCijiLwmI
+
+2) it is not 600,000 megapixels. It is 600,000 pixels wide. If you are calculating it as a full sphere, then it's 180 gigapixels. But there is a black space on the bottom so we are calling it 150 gigapixels.
+
+3) Yes we have censored a few things in the image which might be embarrassing to those people involved. Most of those things would not be embarrassing in other cultures (I think) such as a woman hanging laundry, but Japan is "different". Per the request of journalists at Asahi Shimbun who published a story about it there, we covered up a few bits in the photo. Oh, and the guy sleeping on the ground? Well that's embarrassing anywhere. Poor fellow probably did not expect to be famous on the internet as he lay down on the bench to sleep, fell off the bench, and kept on sleeping. (Side note: apparently in Tokyo it is fully acceptable to sleep it off on the street or in a park - it is a safe place! Well, if you're male...)
+
+4) Yes you can use your geek powers to uncover the censored bits and there are already screenshots out there. Oh well. I did not actually see the whole image before publishing it. It is just so big :)
+
+5) Yes, I used a Canon 7D (best pixel density) and a 400mm L f/5.6 lens, because that lens is great, sharp, and fit in my carryon - can't check camera gear on the plane now, can we.
+
+6) I used a Clauss Rodeon gigapixel robot to control the camera. It is still a lot of work to set the speed and so on, don't think that this is a "set it and forget it" kind of thing. The robot is moving continuously, and the camera is focusing and shooting while moving. This is technologically amazing stuff, but it takes a lot of tweaking to get it to work. In this case I was not completely familiar with the equipment, and I made some mistakes. One section of the image was stitched together from two entire sets of images shot on two different days, in order to get a good alignment.
+
+7) panning mode: we use the "original QTVR style" of navigation, which also used in first-person games. This lets you hold the mouse button down and "glide around". I find this vastly preferable to the click-drag-click-drag-click-drag google style. On touch screens, the movement follows your finger which is more intuitive generally. I've seen a five year old navigate these panoramas on an ipad with no problem. On the PC with a mouse there is not really "one right way".
+
+8) Yes, I also made the "London 320 gigapixel" image, which is larger in terms of pixels, but this one is FAR more interesting in my opinion, and overall much better quality. If you're interested in seeing some of my other large images, check these: Tokyo Roppongi Hills Mori Tower (shot the same week as this one here) http://360gigapixels.com/tokyo-gigapixel-roppongi-hills-mori... http://360cities.net/library Strahov Library interior, 40 gigapixels. http://360gigapixels.com/petrin-prague-photo Prague from petrin tower, 34 gigapixels http://360cities.net/london London 80 gigapixels
+
+If anyone has any other questions, I'm here, and happy to answer them. I'll try to check back often for the next hours. Cheers!
+
+
+Lou Reed, Velvet Underground Leader and Rock Pioneer, Dead at 71
+16 points  guiambros  5 years ago  comments
+This has been discussed many times, but as you've just joined, here's a PSA:
+
+On-Topic: Anything that good hackers would find interesting. That includes more than hacking and startups. If you had to reduce it to a sentence, the answer might be: anything that gratifies one's intellectual curiosity. [1]
+
+Lou Reed was an amazing musician, and someone that promoted intellectual curiosity [2], hence the 20+ points. (too bad one of the mods seems to disagree, hence it was flagged to now show up at the front page anymore).
+
+[1] http://ycombinator.com/newsguidelines.html [2] http://www.youtube.com/watch?v=bFy4kRLCJBU&t=20
+
+
+Immutable Data Collections for Javascript
+14 points  friesenj  4 years ago  comments
+The first time I understood why immutable objects are important was in this podcast with ClojureScript and Mori author David Nolan: http://podcasts.thoughtbot.com/giantrobots/93
+
+What I thought was the key point was this:
+
+Let's say you have a regular JS array. There is a reference to it in memory and it has a certain value. Now you change an element in that array. You've just mutated it. In JS, the reference in memory doesn't change, but now the value of what it's pointing to has. So in order to know if the value has changed, you need to do a comparison on every element on that array, which is expensive.
+
+Now let's say you have a immutable array (such as from the Immutable FB library or Mori). If you change an element in that array, you get a new array and a new array reference in memory. In other words, if you check that the reference in memory is the same, you are guaranteed that the value is the same (in this case, the array). So checking for equality is fast and cheap because you are only checking the reference, not each value in the array.
+
+One way this is important in React is that now if your component state (or entire app state) is represented by an immutable data structure, you can just check for reference equality in the shouldComponentUpdate() method when deciding to re-render that component. If the reference is equal, you are guaranteed that the data backing that component hasn't changed and you can return false, telling React not to re-render.
+
+What's surprising is that people have made these data structures also very memory efficient. You can see David Nolan talking about how they work and memory comparisons here: https://www.youtube.com/watch?v=mS264h8KGwk
+Training the Masculinity Out of Children
+JamesLeonis  9 months ago  comments
+You want an utterly left-field answer? Minecraft [1].
+
+> Seth Frey, a postdoctoral fellow in computational social science at Dartmouth College, has studied the behavior of thousands of youths on Minecraft servers, and he argues that their interactions are, essentially, teaching civic literacy. “You’ve got these kids, and they’re creating these worlds, and they think they’re just playing a game, but they have to solve some of the hardest problems facing humanity,” Frey says. “They have to solve the tragedy of the commons.” What’s more, they’re often anonymous teenagers who, studies suggest, are almost 90 percent male (online play attracts far fewer girls and women than single-­player mode). That makes them “what I like to think of as possibly the worst human beings around,” Frey adds, only half-­jokingly. “So this shouldn’t work. And the fact that this works is astonishing.”
+
+> ...
+
+> Three years ago, the public library in Darien, Conn., decided to host its own Minecraft server. To play, kids must acquire a library card. More than 900 kids have signed up, according to John Blyberg, the library’s assistant director for innovation and user experience. “The kids are really a community,” he told me. To prevent conflict, the library installed plug-ins that give players a chunk of land in the game that only they can access, unless they explicitly allow someone else to do so. Even so, conflict arises. “I’ll get a call saying, ‘This is Dasher80, and someone has come in and destroyed my house,’?” Blyberg says. Sometimes library administrators will step in to adjudicate the dispute. But this is increasingly rare, Blyberg says. “Generally, the self-­governing takes over. I’ll log in, and there’ll be 10 or 15 messages, and it’ll start with, ‘So-and-so stole this,’ and each message is more of this,” he says. “And at the end, it’ll be: ‘It’s O.K., we worked it out! Disregard this message!’?”
+
+[1]: https://www.nytimes.com/2016/04/17/magazine/the-minecraft-ge...
+
+
+Toys R Us to close all 800 of its U.S. stores
+robotbikes  9 months ago  comments
+The problem is that kids these days like adults play with digital toys in cyberverse aka videogames and their imaginations while Toys-R-Us just sold cheap plastic stuff in catdboard boxes. Last time I went there trying to shop their videogame selection was disorganized, it was unclear what systems they had in stock and the games that were in stock were random.
+
+Toys in our youth were well-marketed phenomens that everyone had to have and a store could consistently profit off of by having them in stock. How do you stock Minecraft mods ? There are also still lots of physical toys, probably too many of them considering how often they are made to be disposable and prolific.
+
+
+Productive on six hours of sleep? You’re deluding yourself, expert says
+ramirez60  a year ago  comments
+I can't be alone in being exhausted at these studies. Doctors and Lawyers have spent the better part of the last century working on little to no sleep. Academics too. As an engineer, I would regularly work through little sleep because the process of loading a large project into my head to work on it would take more time than the gains from being more well rested. I'm older now, and no longer work as an engineer. I value my sleep and appreciate how much more I can task-switch on a good nights rest, but the idea that I'm not being productive when I'm grinding through work that has to get done and I'm tired seems an overwritten idea.
+
+I'm not arguing against rest and recharging and clearing your mind. I just don't see what these articles are trying to prove. When I was in college I had several stints of no sleep days to finish projects. Even into my early engineering career, I once billed 40 hours straight. Was I as "productive" per minute for that entire time as if I had slept through 5 nights? No. Would the work have gotten done faster than those 40 hours if I had slept for 8 hours in the middle a few times? No. I had a deadline, and there was nothing getting around the work needing to be done.
+
+The argument seems to be against a constant sprinting mode, which I don't think any company employs. Humans burn out after continuous work for weeks, sometimes months. But a week or 3 of little to no sleep to get through everything you need to? It's worked for a long time. Arguably building up muscle memory while forcing rote things to be learned while on little sleep works. What are we trying to prove by this? That "the man" is out to abuse workers? Of course he is. But did anyone make partner at a law firm by claiming he's going to more productive by working less? If you're goal is work life balance, go ahead. But if you're goal is to excel in a field, then it probably involves some sleep deprivation. PG wrote an article about the reason startups were suited for youth is that you could push through unreasonable hours to crank a lot of life into fewer days.
+
+Sorry for the rant...just wondering if I'm alone in thinking this
+
+
+Proust and Science Fiction
+danidiaz  a year ago  comments
+A very science-fictional (or anti-science-fictional) passage from Proust is:
+
+> A pair of wings, a different respiratory system, which enabled us to travel through space, would in no way help us, for if we visited Mars or Venus while keeping the same senses, they would clothe everything we could see in the same aspect as the things of the Earth. The only true voyage, the only bath in the Fountain of Youth, would be not to visit strange lands but to possess other eyes, to see the universe through the eyes of another, of a hundred others, to see the hundred universes that each of them sees, that each of them is; and this we do, with great artists; with artists like these we do really fly from star to star.
+
+R. A. Lafferty has a delightful short story with this very premise, appropriately titled "Through other eyes": https://archive.org/stream/Future_Science_Fiction_47_1960-02...
+
+
+Ask HN: How much adrevenue you make from your side project?
+20years  2 years ago  comments
+It varies greatly based on type of content. The most I have made was $20k per month on a TV show review site. We had Netflix and Hulu advertising on in through Adsense for awhile and their ads were specific to the individual TV shows we were writing about. The RPM's were amazing.
+
+I also ran a Minecraft mods site for awhile with my son and at its top it made $9k/mo with about 130k unique visitor per month.
+
+More tech content sites or other more general sites I have ran haven't gotten anywhere close to those #'s.
+
+Games and entertainment content geared towards youth do well.
+
+Ad placement also makes a difference. 1 well placed in-content ad can make you a lot more than 3 ads. That one well placed in-content ad can generate a higher CTR and CPC vs. if you place 3 ads. When you place multiple ads, the CTR on all of them even the well placed in-content ad is much lower as well the the CPC. I have tested this extensively.
+
+
+The relationship between mindset and getting old
+chiefalchemist  2 years ago  comments
+Kinda like a placebo effect, yes. It would be interesting to take a group of slightly younger test subjects and see what happens to them when they live with older people in the present.
+
+Moi? The body and mind are both subject to: Use it or lose it. We also, as humans, tend to assimulate into the norm around us, be it smoking, obesity, and now I guess perhaps youth.
+
+Finally, I have to wonder about the effects of essentially being on holiday. In addition, perhaps the group discussions energized them? That is instead of waiting to die, they had more reason to live? In any case, interesting.
+
+
+India, Once a Coal Goliath, Is Fast Turning Green
+sandGorgon  2 years ago  comments
+One of the interesting segments was a feature made by a bearded David Letterman in Nov 2016 - around the problems with solar panel rooftops in the USA and the success these have in India.
+
+https://youtu.be/bW_eGAwnfeI
+
+The point it tries to make is that - the demand exists, the challenge is the govt and the policy makers.
+
+One other point made in the same video is at the end by Prime Minister Modi - we need tech transfer from the US. Solar and nuclear . India is probably the only non-NPT country to be authorised by the US Congress for civilian nuclear technology sale.
+
+But all bets are off now. One does not know how the current regime will operate due the "coal is best" rhetoric.
+
+Of course, Tesla might still move to India given the repartee between Anand Mahindra (of Mahindra motors) and Elon Musk yesterday!
+
+https://twitter.com/elonmusk/status/870570686409920512
+
+
+Minecraft arrives on the Nintendo Switch
+giancarlostoro  2 years ago  comments
+> Entire separate games (e.g. Hunger Games mod) have been implemented.
+
+Reminds me of why I was hooked to Star Craft / SC Brood War in my youth, same thing with Counter-Strike. Video game modding is probably the best part of any video game, at least for me. There's a group of people redoing the Morrowind engine so they can allow the game to live on in other OS' for those who have the disk.
+
+I have to wonder if GTA had never had online PC game mods if Rockstar would of ever made it an online game as soon as they did.
+
+
+Henry Rollins on defining success
+ilamont  2 years ago  comments
+Great interview. My main touch points for Rollins are his music and some of his spoken word stuff from the 1980s; I did not know he has continued his high rate of creative output to the present time (I had a vague idea he does radio stuff but I don't follow it).
+
+One point of context that's worth mentioning: In the early 1980s he was part of one of the most prolific small teams that ever existed in the music industry: Black Flag (Rollins, guitarist Ginn, drummer Bill Stevenson and bassist Kira Roessler) and their producer "Spot." From 1984-85 they released four full-length albums and toured incessantly. Even after the band broke up the individual members continued to produce, produce, produce. Rollins started Rollins Band and did poetry books and spoken word tours as well. Ginn ran SST records and did some other bands. There's a documentary about Bill Stevenson which shows how he kept up this crazy pace with ALL and Descendents and other recording projects to the present day. Roessler was part of a sound editing team that won an Oscar for their work on Mad Max: Fury Road. These people are incredibly prolific and creative in their own right, and when they came together it was a very intense period of output.
+
+Anyone who is interested in the history of Black Flag and other seminal creative teams of the alternative/underground music scene of the 1980s (Minor Threat, Mission of Burma, The Replacements, Fugazi, Minutemen, Big Black, Sonic Youth, Dinosaur Jr., Butthole Surfers ...) should read Michael Azzerad's "Our Band Could Be Your Life." He conducted some solid research and got many of the key players to talk to him, and the book is a great read. He made an observation that these bands were in many respects entrepreneurial ventures, albeit operating with only creative capital and bootstrapped energy. Quoting from his interview with The Paris Review (1):
+
+The most lasting significance of the eighties American indie scene might have been the way these bands conducted their careers. The point wasn’t to play loud and fast; the point was to make the music they wanted to make, without compromise, to find and cultivate an audience for it, and to live within their means so they could continue to do exactly what they wanted to do and not be beholden to anyone but themselves. That’s really what the best indie bands today are emulating.
+
+Also, much of what the bands in this book did was to make very unconventional music that attracted unconventional people—or maybe even showed conventional people a different mode of thinking. Not necessarily because of anything in the lyrics, but just because of how challenging and unorthodox the music was.
+
+https://www.theparisreview.org/blog/2011/05/19/michael-azerr...
+
+
+Facts about migration and crime in Sweden
+ggdG  2 years ago  comments
+I would take these "facts" about migration with a huge rock of salt.
+
+In Sweden, as in other Western European countries, public debate about immigration, islamisation and its consequences to society is being smothered under a suffocating blanket of political correctness.
+
+After the New Year's Eve attacks in Cologne - when on one square, during one night a total of about 1200 women were hemmed in individually and sexually assaulted by a mob of muslim men [1] - the German press and the government managed to keep the events under wraps for four days until the outrage on social media became too great to ignore.
+
+In the slipstream of the press coverage that followed, the Swedish newspaper Dagens Nyheter revealed that similar events had happened since a couple of years on the summer music festival "We Are Sthlm" in Stockholm [2]. When asked for reasons as to why nothing of this ever became public knowledge, Police chief Peter Ågren is quoted explaining how he performs self-censorship on these kinds of cases as to not play into the hands of the anti-immigration party Sverigedemokraterna [3][4].
+
+I don't follow Swedish media because of the language barrier but if my experience with Flemish and Dutch media is any indication then this political party might very well be demonised beyond recognition in the Swedish press. People don't like to play into the hands of what they're told to consider as the Second Coming of Lucifer, even when the events turn out to be the very thing this party has been warning for for years.
+
+It would be quite understandable if events like wat happened in Stockholm would lead to a moral panic [5], but as soon as it becomes clear that muslim immigrants are the perpetrators, the opposite happens. People will vent their outrage about what happened in a close circle of trusted friends but put on a mask of political correctness to anyone outside that circle. Not unlike the Soviet Union in its heyday. On the other hand, as soon as there is a hint of how racist the native population allegedly is, the press kicks into full moral panic mode.
+
+A striking example of this double standard are the events of 2016 in Belgium. During the arrest of terrorist Salah Abdeslam in Brussels [6], the anti-terror units were pelted with stones and bottles by muslim youth from the Molenbeek neighbourhood where his hideout was. Quite the contradiction to the eternal story we keep hearing about "a few bad apples". So the public broadcaster VRT decided not to mention that pesky detail. Elsewhere it hardly got any coverage until a minister got angry over it [7]. When on the other hand a few racist comments made by native Belgians are found on Facebook among millions of non-racist ones, then this is reason enough for the newspaper "De Morgen" to appear with a entirely black front page [8].
+
+The Swedish government's "fact" sheet puts on a brave face about having immigration-related violence under control. One look at the ever growing list of recent grenade attacks [9] (that they conveniently forget to mention in their factsheet) tells us there is a very serious problem [10]. No mention neither of the fact that of the 160.000+ asylum seekers that arrived in 2015 only, fewer than 500 landed a job [11]. On a total population of 10 million people hundreds of thousands of relative newcomers - many of them functionally illiterate - are living on benefits without any prospect of ever playing a role in the economy of Sweden where less than 5% of the jobs is low-skilled [12].
+
+The "factsheet" lambasts its own citizens - who foot the bill for the benefits and the urban unrest - for being islamophobe, for harrassing muslims and for discriminating them on the job market. It misleadingly suggest a percentage of 1.5 muslims by only counting "muslim faith communities". While the real number is probably at least 6% [13]. Apparantly the Swedish government wants us to believe that the other 4.5% have become secular.
+
+The findings of the Dutch scholar Ruud Koopmans, who does research at the Humboldt university in Berlin tell another story. By conducting surveys among the European muslim population he comes to the conclusion that 40 to 45% percent can be classified as fundamentalist [14][15]. There is also the British Channel 4 docu "What British Muslims Really Think" [16].
+
+That many muslims in Sweden are quite fundamentalist is why the Jewish actor Kim Bodnia decided to quit the crime series "The Bridge" because he did no longer feel safe in Malmö with its growing antisemitism [17].
+
+And if you think this will all blow over once the children of the first generation immigrants have finished school and are ready for the job market, think again. Second generation muslim immigrants are no better integrated, they are even worse integrated. If you want to look up some stats from Belgium on that topic you hit a stonewall. But the Dutch central bureau for statistics has some solid public data on that.
+
+So one of the disturbing things they found was that for many non-Western minorities criminality rate increased with the second generation w.r.t. the first one. Take for instance Moroccans and Turks, as they are important minorities in both Belgium and the Netherlands.
+
+Males with a Moroccan background are almost six times more likely to be a crime suspect than a native Dutchman. Males of Turkish descent more than three times. And when you split up by generation: second generation Moroccans in the Netherlands are almost three times more likely to be a crime suspect than the first generation. Second generation Turks more than two times [18].
+
+So you have a generation of people who were born and spent their entire life in the Netherlands, went to the same schools and got the same education as Dutch kids, and yet they are more of a burden to society and are less well integrated than the first generation of immigrants.
+
+I think you can extrapolate that to other European countries like Sweden and to immigrants with a background in other parts of the world, like the horn of Africa, Syria, Iraq or Afghanistan.
+
+The share of muslims among the European population is also rapidly growing [19] because of a number of factors that amplify each other. First of all there is the continued influx. Then you have family reunification. Add to that the fact that many muslims of 1st, 2nd or 3rd generation prefer to look for a spouse in their country of origin. And there is the higher birthrate among muslims compared to the native population. And finally there are native people who feel alienated in their own country and go try their luck in North America, Australia or New Zealand.
+
+So I think these "facts" are a desperate attempt by the Swedish government to shape perception towards their own interests, and you are better informed when reading the testimony of that courageous Swedish cop:
+
+http://www.thelocal.se/20170208/swedish-police-officer-cause...
+
+[1] https://en.wikipedia.org/wiki/New_Year's_Eve_sexual_assaults...
+
+[2] https://en.wikipedia.org/wiki/We_Are_Sthlm_sexual_assaults
+
+[3] http://www.spectator.co.uk/2016/01/its-not-only-germany-that...
+
+[4] http://www.dn.se/nyheter/sverige/assaults-at-the-stockholm-f...
+
+[5] https://en.wikipedia.org/wiki/Moral_panic
+
+[6] https://en.wikipedia.org/wiki/2016_Brussels_police_raids
+
+[7] https://translate.google.com/translate?sl=auto&tl=en&js=y&pr...
+
+[8] https://twitter.com/demorgen/status/760580553850621954
+
+[9] https://en.wikipedia.org/wiki/List_of_grenade_attacks_in_Swe...
+
+[10] http://uk.reuters.com/article/uk-sweden-grenades-idUKKCN0QE0...
+
+[11] http://www.independent.co.uk/news/world/europe/refugee-crisi...
+
+[12] http://www.economist.com/news/finance-economics/21709511-too...
+
+[13] https://en.wikipedia.org/wiki/Islam_in_Sweden
+
+[14] https://www.wzb.eu/en/press-release/islamic-fundamentalism-i...
+
+[15] https://phys.org/news/2015-01-islamic-fundamentalism-margina...
+
+[16] https://www.youtube.com/watch?v=xQcSvBsU-FM
+
+[17] http://www.telegraph.co.uk/news/worldnews/europe/sweden/1216...
+
+[18] https://www.cbs.nl/-/media/_pdf/2016/47/ji2016s_web.pdf, paragraph 1.7, "Proportion of crime suspects by background and background characteristics, 2015*"
+
+[19] https://en.wikipedia.org/wiki/Muslim_population_growth#Europ...
+
+
+Kids can't use computers (2013)
+lucb1e  2 years ago  comments
+TL;DR (239 words, 1 minute reading)
+
+I told a colleague, whom isn't tech savvy, that contrary to her belief, most kids aren't digital natives. They all can't use computers. Examples of people who can't use computers are mostly the obvious (plug in the ethernet cable; turn on the display; turn on the wireless switch in an OS of your choice); one is a bit harder (reinstall Windows). Parents did it all wrong, fixing everything for their children without teaching them how to do it themselves. The UK asked the industry what should be taught and Microsoft told them Microsoft Office, so now that's what they know. People aren't used to a command line anymore.
+
+Why should we care? Tomorrow's people are going to be creating laws regarding computers, enforcing laws regarding computers, educating the youth about computers, reporting in the media about computers and lobbying politicians about computers. All while not being able to use a computer.
+
+How to fix it? Stop fixing things for your kids. Schools should teach not to install malware instead of locking down machines. Teach how to stay safe on-line. Adopt a responsible disclosure model instead of punishing kids in school for hacking things. At least play around with Linux and powershell and stuff.
+
+I've owned a car for most of my adult life yet I wouldn't know how to fix one. It's a recurring problem with computers. Yet I want to build a generation of hackers. Who's with me?
+
+--- End of TLDR. ---
+
+That took the author 4165 words in story mode (and me about 30 minutes to read, including this summary). This, author, is why you were probably asked for a TLDR in the past and why you write "gtfo you stupid fuck" as a TLDR on top: it takes forever like this. And be honest, author, did I miss anything? Other than clipped sentences, should anything more be included to get that message across?
+
+Now as for my own commentary, I more or less agreed up to the "Why" part. I mean, yeah, digital self defense is important but not for everyone. If a subset of the population in every country knows it, we're good right? You even admit to not knowing how to fix your own car, yet without explaining how this is different you expect us to understand that it is different somehow?
+
+I'd like to see people be a little bit more tech savvy, but not as much as you seem to think is necessary before not calling someone computer illiterate anymore.
+
+
+India's Misguided War on Cash
+gnipgnip  2 years ago  comments
+Indians have far too much trust on the state (well Modi, to be precise) - that's precisely why old-notes are quickly falling off of circulation. There appears to be plenty more possibly draconian measures in the pipeline.
+
+See,
+
+https://www.youtube.com/watch?v=429jrPupdDY
+
+P.S: Nigeria's per-capita income is higher than India in nominal terms (so is Africa's as a whole).
+
+
+How to Get Beyond Tribal Politics
+gnipgnip  2 years ago  comments
+The whole Hitler thing is strangely universal. I've previously read about Abe being compared to Hitler.
+
+A stranger incident was a picture of Modi next to a Swastika - the (Indian) authors found no irony in using a Hindu symbol, and embedding in it the European epistemology of "Aryan pure blood", in order to appeal to people who they were appealing to.
+
+Admittedly the elites of the latter are indistinguishable from those in the US, and this is imaginably true of Japan too.
+
+Is this true outside the Anglosphere and their peripheries too ?
+
+Edit: I think Assange has the situation right. Trump is symbolic of "White trash" - much as Modi is symbolic of the un-anglicized mass in India. Their opposition, dub themselves with various epithets like "progressive" "liberal" "secular" etc.. until the cows come home.
+
+https://www.youtube.com/watch?v=_sbT3_9dJY4
+
+That said, it should be noted that this doesn't necessarily mean the contenders are going to do anything drastically different from the status-quo. Certainly has been true in India.
+
+
+India's Billion Digital Identities
+gnipgnip  2 years ago  comments
+The whole digitizing India is total and complete sham.
+
+Old Govt. offices atleast used to work, and had forms in local languages. Now, you need to have,
+
+- A scanner, to have all your documents scanned
+
+- A printer, to get a "printout" of the receipts
+
+- A computer with internet
+
+- A shit ton of patience, since the sites barely work.
+
+... and of course, all the forms are now only in English (courtesy of your "nationalistic" regime - you're welcome!).
+
+Of course, you'll still need to go to the Govt. office (where files provide for rat fodder and pigeon litter) to give them the receipts and stuff. I imagine, this is how most conversations end up,
+
+"No what do you mean you don't have a computer, or speak English ? Get out of here you pleb!"
+
+Digital India my arse. My parents are sick of this moronic hyped up shit - there is no fallback now either, nor is there some accessibility help. I can't imagine how this helps the mute 90%, if its such a bloody pain even to the top 5%.
+
+Now this UIDAI thing. Removing this massive big-brotherish database was on the election manifesto; instead Modi gave his blessing (he's after all a re-incarnation of Vishnu[2]) after coming under the spell of Nilekani. It's now being pushed heavily, ostensibly as some "magic wand" that can fix India's leaky bureaucracy - problems which in reality could've been fixed by simple bank a/c numbers.
+
+The Supreme court of India, which in the middle of its supreme quest to civilize the "barbarians", directed the state to make sure this additional layer be made non-mandatory; obviously this directive is routinely ignored.
+
+I'm extremely wary of this additional layer which was essentially pushed down our throats with barely any public consultation.
+
+It's anybody's guess how this kleptocracy will use such information in the future. I expect to see a massive roll-out of online censorship/internet spying in the future - even "liberals" [1] in India are calling for ID regulated internet access. Perhaps, once the time-servers are kicked out in '19, Madame, her highness, the Queen of India, Sonia Gandhi, and his highness, his excellency Sir. Rahul Gandhi, Prince of India, can bless us with this marvelous policies, and bring about another glorious age of slavery.
+
+[1] https://www.youtube.com/watch?v=C0OwfGzcYmo
+
+[2] https://www.youtube.com/watch?v=KwgMvbEyV_s
+
+
+A Mexican architect has a vision for a city straddling the U.S.-Mexico border
+yummyfajitas  2 years ago  comments
+No, coalition voting is when political parties promise to support some of each other's policies in order to seize and share power.
+
+Tribalism isn't about policy and it's concrete effects at all. Here's a great Howard Stern interview about it. The gist is that Obama asked a bunch of NY folks whether they support Obama because he wants to stay the course in Iraq or because he's pro life? His supporters agree with him on both policies and are glad he chose Sarah Palin as his VP. (The one McCain supporter in NY was no better.)
+
+https://www.youtube.com/watch?v=GqAiarOhC2U
+
+Similar sketch from 2012: https://www.youtube.com/watch?v=SeJbOU4nmHQ
+
+Tribalism isn't about policy. It's about identity and it seems to be the primary driver of voting. Trump is incoherent, and insofar as he had any concrete policy goals he's backed away from them (e.g. the giant wall of ice). But he shows respect to Vaisya Americans [1] so they support him. I imagine that if I spoke to typical white Trump supporters they would probably be as incoherent as Obama voters in Stern's interview.
+
+This is also why Modi had to go so heavy on Hindutva to get support. "Toilets First, Temples Later" will help far more people, but he needs to ensure strong support among tribalist voters too.
+
+Or even to go with your example, ask why people who incorporate "black" or "non-racist righteous white person" into their identity care so much about blacks being killed by police, and so little about blacks being killed by black civilians? That's directly comparable to the level of attention rural/suburban whites give to terrorism vs murders by rural white civilians. The former is an attack on our tribe by outsiders, the latter isn't.
+
+[1] I'm taking the term from this article. In the US we deny these concepts so strongly that we don't even have words to describe them; as a result Moldbug had to borrow Indian words when discussing it. http://unqualified-reservations.blogspot.com/2007/05/castes-...
+
+
+Discovering Planet Nine
+dalke  2 years ago  comments
+While you are correct that I misunderstood you, and thought you were talking about "planet", astronomers use "celestial body" to include the Earth, and have done so since the 1800s. Your comment started "Technically", so I believe you mean to use the astronomy definition, in which case your statement "Earth, not being in the night sky, is not celestial" is using non-technical language where I expected it to use technical language.
+
+Two modern examples of how "celestial objects" includes the Earth are https://www.iau.org/static/archives/releases/pdf/iau0915.pdf :
+
+> Titan has long fascinated astronomers as the only moon known to possess a thick atmosphere, and as the only celestial body other than Earth to have stable pools of liquid on its surface.
+
+and http://astroedu.iau.org/activities/blue-marble-floating-empt... :
+
+> These astronauts were the first people to ever orbit a celestial body other than the Earth, ...
+
+Now, three historical examples, the first from Youth's Book of Astronomy (1839), https://books.google.com/books?id=qZc-AQAAMAAJ&dq=celestial%...
+
+> Their [the Chaldeans] ideas of the earth as a celestial body were also crude and imperfect.
+
+The second from "A system of universal geography : or, A description of all the parts of the world, on a new plan, according to the great natural divisions of the globe, accompanied with analytical, synoptical, and elementary tables", vol. 1 (1847) at https://archive.org/stream/universalgeograp01maltuoft#page/n... :
+
+> Theory of Geography. Of the Earth, considered as a celestial Body, and in its relations to the other celestial Bodies.
+
+Since "considered as" isn't as strong as "is", here's the third example, from "Astronomy simplified" (1838), https://books.google.com/books?id=cWAEAAAAQAAJ&dq=celestial%...
+
+> 5thly-That the Earth, like every other celestial body, moves with accelerated velocity during the perihelion, and ...
+
+You are also right that "celestial body" in popular use is often treated as a synonym for "heavenly body". This is a pre-Copernican viewpoint, expressed in 1 Corinthians 15:40 as "There are also heavenly bodies and there are earthly bodies; but the splendor of the heavenly bodies is one kind, and the splendor of the earthly bodies is another."
+
+However, you emphasized the technical definition, not the general culture use.
+
+P.S. Did you mean "planets revolving around the Sun" instead of the Earth? Also, earlier you wrote "Earth, not being in the night sky, is not celestial", but I'll point out the Sun is also not in the night sky; is it also not celestial?
+
+
+New Startup Aims to Commercialize a Brain Prosthetic to Improve Memory
+drzaiusapelord  2 years ago  comments
+Its also bad news that Alzheimer's and dementia caused memory loss has a lot of funding aimed at it. The "Alzheimer's is brain inflammation" theory has gotten a lot of traction lately. In fact, there was just a study that showed a NSAID could treat memory issues, at least in mice models.
+
+http://www.medicaldaily.com/period-pain-drug-can-cure-alzhei...
+
+I suspect they fell out of "stealth mode" because they're up against the clock here. We may have simple pill-based Alzheimer's treatment in a decade or so. Brain surgery is a hard sell even if they solve all the technical issues. If the inflammation theory is right, then a anti-inflammation treatment that can work its way past the blood-brain barrier might be the best treatment here. If its just a modified NSAID it would be very cheap and very low risk.
+
+>“He thinks the next big challenge for the human race is how to improve our brains,” says Berger.
+
+The problem I see is that intellectual people overvalue intellectualism. Way too many billionaires are funding vanity pie-in-the-sky projects like keeping their minds alive and youthful forever or brain training sites/apps instead of funding things that could actually work and help 'regular' people. I suspect socially smart people know how to play deep pocketed nerds and empty their wallets. This startup seems like a fairly bullshit venture imo, or at least way too pie-in-the-sky to remotely go public or start sending out press releases.
+
+
+Ask HN: Any experience with defiant children?
+spdustin  2 years ago  comments
+My background: I'm the parent of an 11 year old boy with "highly verbal" autism spectrum disorder (think Sheldon Cooper from Big Bang Theory) and have made many connections with parents, children with all forms of special needs, and caregivers through peer groups, school interventions, etc.. He wasn't always verbal, that came with therapy.
+
+A peer of his in school, I'll call him John, has a problem. To parents, his own and his friends', he's what one would politely describe as a terror. No respect for property or rights, no consideration for feelings, constant lashing out, and an almost masochistic "bring it, bitch" attitude to anyone who might suggest disciplinary action or consequences he might find unfavorable. He invites it.
+
+He was diagnosed with conduct disorder. His parents' unpredictable methods of discipline, their lower income status compared to their peers, and lack of an "always home when I'm home" parent were significant factors in what developed into the behavior ultimately diagnosed as conduct disorder. At 7 years of age (3-4 years ago) he had already identified other kids who would support his behavior, even encourage it. There was even a time when substance abuse was considered, but his parents spied on him pretty hardcore (that didn't help, either, I might add, and it often won't) and determined that not to be the case.
+
+I've followed this family for five years, and seen encouraging improvements since diagnosis last year. First, it qualified him as having a disability, so ADA kicks in and makes programs available to him in school, such as an IEP (individual education plan), disciplinary changes, and support staff/interventions (sometimes called "pull-outs", where he goes to a different classroom for part of his day). Second, a developmental pediatrician and pediatric psychiatrist worked with the family on a treatment program. One that, in his case, included prescription medication, and I mention that incidentally; I know many folks have problems with their child being given a prescription that changes their behavior or mental mode, but I don't want it to go unnoticed that, for many, they can indeed help. In John's case, it gave him enough of a "mental quiet" that the behavioral therapies at home and school would have a chance to reach his mind before his rage shut it out.
+
+My strongest advice is: take him to a pediatric psychiatrist. ASAP. Even if you think he'll fake it when he's being tested. And be direct and honest when asked about his home environment. If the doctor doesn't have all the data, they can't help effectively, and it can only hurt your child's future to get the wrong therapy.
+
+And please, if you or your wife need pharmaceutical help to be calm and clear-minded with your child, talk to a doctor. Your son's parents need to be calm and consistent, even though that means more work for you. Calmly remove the things he damages. Do not be goaded into a physical response, it does not work. If you have to take shifts standing in his doorway to keep him in his room, it's far more effective than locking him in there.
+
+Mom and dad need to be trusted again. Therapy will help.
+
+Hang in there.
+
+Also: read more about it here: http://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Fami...
+
+
+Dear Googles: Stop asking
+3 points  ams6110  5 years ago  comments
+Use incognito mode for YouTube.
+
+
+Ask HN: If you could automate one thing in your home, what would it be?
+2 points  brwr  6 years ago  comments
+I'll throw one in the ring for a few giggles: Emergency Party Mode! http://youtu.be/6x1GkgbVP1I?t=3m15s

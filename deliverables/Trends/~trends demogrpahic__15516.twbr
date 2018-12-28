@@ -1,0 +1,682 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20183.18.1018.1932                               -->
+<workbook locale='en_IN' source-build='2018.3.0 (20183.18.1018.1932)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='interest_over_time' inline='true' name='federated.0lsugko1vaz8wk1blvfst0ygr7nz' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='interest_over_time' name='textscan.0uyinw01td23611a7436b09beclj'>
+            <connection class='textscan' directory='Data/trends data' filename='interest_over_time.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0uyinw01td23611a7436b09beclj' name='interest_over_time.csv' table='[interest_over_time#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='date' name='date' ordinal='0' />
+            <column datatype='integer' name='hits' ordinal='1' />
+            <column datatype='string' name='keyword' ordinal='2' />
+            <column datatype='string' name='geo' ordinal='3' />
+            <column datatype='string' name='gprop' ordinal='4' />
+            <column datatype='integer' name='category' ordinal='5' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[interest_over_time.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[date]</local-name>
+            <parent-name>[interest_over_time.csv]</parent-name>
+            <remote-alias>date</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>hits</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[hits]</local-name>
+            <parent-name>[interest_over_time.csv]</parent-name>
+            <remote-alias>hits</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>keyword</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[keyword]</local-name>
+            <parent-name>[interest_over_time.csv]</parent-name>
+            <remote-alias>keyword</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>geo</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[geo]</local-name>
+            <parent-name>[interest_over_time.csv]</parent-name>
+            <remote-alias>geo</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gprop</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gprop]</local-name>
+            <parent-name>[interest_over_time.csv]</parent-name>
+            <remote-alias>gprop</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>category</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[category]</local-name>
+            <parent-name>[interest_over_time.csv]</parent-name>
+            <remote-alias>category</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Category' datatype='integer' hidden='true' name='[category]' role='measure' type='quantitative' />
+      <column caption='Date' datatype='date' name='[date]' role='dimension' type='ordinal' />
+      <column caption='Geo' datatype='string' hidden='true' name='[geo]' role='dimension' type='nominal' />
+      <column caption='Gprop' datatype='string' hidden='true' name='[gprop]' role='dimension' type='nominal' />
+      <column caption='Hits' datatype='integer' name='[hits]' role='measure' type='quantitative' />
+      <column caption='Keyword' datatype='string' name='[keyword]' role='dimension' type='nominal' />
+      <column-instance column='[date]' derivation='None' name='[none:date:qk]' pivot='key' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.5' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <filter class='quantitative' column='[hits]' filter-group='2' included-values='in-range'>
+        <min>1</min>
+        <max>100</max>
+      </filter>
+      <filter class='categorical' column='[keyword]' filter-group='2'>
+        <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+          <groupfilter function='level-members' level='[keyword]' />
+          <groupfilter function='member' level='[keyword]' member='&quot;narendra modi&quot;' />
+        </groupfilter>
+      </filter>
+      <filter class='quantitative' column='[none:date:qk]' filter-group='2' included-values='in-range'>
+        <min>#2014-01-01#</min>
+        <max>#2018-12-20#</max>
+      </filter>
+    </datasource>
+    <datasource caption='related_queries' inline='true' name='federated.1nq37cy0tptg5w1448nug0hjf40x' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='related_queries' name='textscan.0bew98x1kfckkm12emi5l0dk8j7f'>
+            <connection class='textscan' directory='Data/trends data' filename='related_queries.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0bew98x1kfckkm12emi5l0dk8j7f' name='related_queries.csv' table='[related_queries#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='subject' ordinal='0' />
+            <column datatype='string' name='related_queries' ordinal='1' />
+            <column datatype='string' name='value' ordinal='2' />
+            <column datatype='string' name='geo' ordinal='3' />
+            <column datatype='string' name='keyword' ordinal='4' />
+            <column datatype='integer' name='category' ordinal='5' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[related_queries.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>subject</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[subject]</local-name>
+            <parent-name>[related_queries.csv]</parent-name>
+            <remote-alias>subject</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>related_queries</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[related_queries]</local-name>
+            <parent-name>[related_queries.csv]</parent-name>
+            <remote-alias>related_queries</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>value</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[value]</local-name>
+            <parent-name>[related_queries.csv]</parent-name>
+            <remote-alias>value</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>geo</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[geo]</local-name>
+            <parent-name>[related_queries.csv]</parent-name>
+            <remote-alias>geo</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>keyword</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[keyword]</local-name>
+            <parent-name>[related_queries.csv]</parent-name>
+            <remote-alias>keyword</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>category</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[category]</local-name>
+            <parent-name>[related_queries.csv]</parent-name>
+            <remote-alias>category</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Category' datatype='integer' hidden='true' name='[category]' role='measure' type='quantitative' />
+      <column caption='Geo' datatype='string' hidden='true' name='[geo]' role='dimension' type='nominal' />
+      <column caption='Keyword' datatype='string' name='[keyword]' role='dimension' type='nominal' />
+      <column caption='Related Queries' datatype='string' name='[related_queries]' role='dimension' type='nominal' />
+      <column caption='Subject' datatype='string' name='[subject]' role='dimension' type='nominal' />
+      <column caption='Value' datatype='string' name='[value]' role='dimension' type='nominal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.572727' measure-ordering='alphabetic' measure-percentage='0.427273' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+    <datasource caption='interest_by_region' inline='true' name='federated.1nwu63z0ouz5p11106x1219gsvfc' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='interest_by_region' name='textscan.1xpbi0z02u5rxf1e1m3720tphapq'>
+            <connection class='textscan' directory='Data/trends data' filename='interest_by_region.csv' password='' server='' />
+          </named-connection>
+          <named-connection caption='interest_over_time' name='textscan.1q9ha8i0t6xl4f19zn9h11m42bwc'>
+            <connection class='textscan' directory='Data/trends data' filename='interest_over_time.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1xpbi0z02u5rxf1e1m3720tphapq' name='interest_by_region.csv' table='[interest_by_region#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='location' ordinal='0' />
+            <column datatype='integer' name='hits' ordinal='1' />
+            <column datatype='string' name='keyword' ordinal='2' />
+            <column datatype='string' name='geo' ordinal='3' />
+            <column datatype='string' name='gprop' ordinal='4' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[interest_by_region.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>location</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[location]</local-name>
+            <parent-name>[interest_by_region.csv]</parent-name>
+            <remote-alias>location</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>hits</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[hits]</local-name>
+            <parent-name>[interest_by_region.csv]</parent-name>
+            <remote-alias>hits</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>keyword</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[keyword]</local-name>
+            <parent-name>[interest_by_region.csv]</parent-name>
+            <remote-alias>keyword</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>geo</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[geo]</local-name>
+            <parent-name>[interest_by_region.csv]</parent-name>
+            <remote-alias>geo</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gprop</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gprop]</local-name>
+            <parent-name>[interest_by_region.csv]</parent-name>
+            <remote-alias>gprop</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Geo' datatype='string' name='[geo]' role='dimension' semantic-role='' type='nominal' />
+      <column caption='Gprop' datatype='string' name='[gprop]' role='dimension' type='nominal' />
+      <column caption='Hits' datatype='integer' name='[hits]' role='dimension' type='ordinal' />
+      <column caption='Keyword' datatype='string' name='[keyword]' role='dimension' type='nominal' />
+      <column caption='Location' datatype='string' name='[location]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+      <extract count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_IN' class='hyper' dbname='Data/trends demogrpahic.twb Files/interest_by_region.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='12/26/2018 08:26:11 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh>
+            <refresh-event add-from-file-path='' increment-value='%null%' refresh-type='create' rows-inserted='360' timestamp-start='2018-12-26 20:26:11.074' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>location</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[location]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>location</remote-alias>
+              <ordinal>0</ordinal>
+              <family>interest_by_region.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>36</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>hits</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[hits]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>hits</remote-alias>
+              <ordinal>1</ordinal>
+              <family>interest_by_region.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>84</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>keyword</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[keyword]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>keyword</remote-alias>
+              <ordinal>2</ordinal>
+              <family>interest_by_region.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>geo</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[geo]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>geo</remote-alias>
+              <ordinal>3</ordinal>
+              <family>interest_by_region.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>gprop</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[gprop]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>gprop</remote-alias>
+              <ordinal>4</ordinal>
+              <family>interest_by_region.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' dim-percentage='0.547727' measure-ordering='alphabetic' measure-percentage='0.452273' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;India&quot;' />
+        <semantic-value key='[State].[Name]' value='%null%' />
+      </semantic-values>
+      <filter class='categorical' column='[hits]' filter-group='2'>
+        <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+          <groupfilter function='level-members' level='[hits]' />
+          <groupfilter function='member' level='[hits]' member='%null%' />
+        </groupfilter>
+      </filter>
+      <filter class='categorical' column='[keyword]' filter-group='2'>
+        <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+          <groupfilter function='level-members' level='[keyword]' />
+          <groupfilter function='member' level='[keyword]' member='&quot;narendra modi&quot;' />
+        </groupfilter>
+      </filter>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='interest_by_region' name='federated.1nwu63z0ouz5p11106x1219gsvfc' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.1nwu63z0ouz5p11106x1219gsvfc'>
+            <column caption='Hits' datatype='integer' name='[hits]' role='dimension' type='ordinal' />
+            <column caption='Keyword' datatype='string' name='[keyword]' role='dimension' type='nominal' />
+            <column caption='Location' datatype='string' name='[location]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+            <column-instance column='[hits]' derivation='None' name='[none:hits:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[keyword]' derivation='None' name='[none:keyword:nk]' pivot='key' type='nominal' />
+            <column-instance column='[location]' derivation='None' name='[none:location:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1nwu63z0ouz5p11106x1219gsvfc].[none:keyword:nk]'>
+            <groupfilter function='level-members' level='[none:keyword:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1nwu63z0ouz5p11106x1219gsvfc].[none:keyword:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1nwu63z0ouz5p11106x1219gsvfc].[Longitude (generated)]' field-type='quantitative' max='11815161.468595006' min='5133245.6519823112' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1nwu63z0ouz5p11106x1219gsvfc].[Latitude (generated)]' field-type='quantitative' max='4643361.8662345205' min='787459.76737540681' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.1nwu63z0ouz5p11106x1219gsvfc].[none:hits:qk]' num-steps='50' palette='orange_10_0' type='interpolated' />
+          </style-rule>
+          <style-rule element='map-layer'>
+            <format attr='enabled' id='tab_base' value='true' />
+            <format attr='enabled' id='um_lcover' value='true' />
+            <format attr='enabled' id='tab_coastline' value='false' />
+            <format attr='enabled' id='pp2_line' value='false' />
+            <format attr='enabled' id='light_adm0_bnd' value='false' />
+            <format attr='enabled' id='light_adm0_lbl' value='false' />
+            <format attr='enabled' id='um_adm0_bnd' value='true' />
+            <format attr='enabled' id='um_adm0_lbl' value='true' />
+            <format attr='enabled' id='light_pp2_statebounds' value='false' />
+            <format attr='enabled' id='light_pp2_statelabels' value='false' />
+            <format attr='enabled' id='pp2_adminlabels' value='false' />
+            <format attr='enabled' id='pp2_statebounds' value='true' />
+            <format attr='enabled' id='pp2_statelabels' value='true' />
+            <format attr='enabled' id='countybounds' value='false' />
+            <format attr='enabled' id='countylabels' value='false' />
+            <format attr='enabled' id='zipbounds' value='false' />
+            <format attr='enabled' id='ziplabels' value='false' />
+            <format attr='enabled' id='tab_areabounds' value='false' />
+            <format attr='enabled' id='tab_arealabels' value='false' />
+            <format attr='enabled' id='tab_msabounds' value='false' />
+            <format attr='enabled' id='tab_msalabels' value='false' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Multipolygon' />
+            <encodings>
+              <color column='[federated.1nwu63z0ouz5p11106x1219gsvfc].[none:hits:qk]' />
+              <lod column='[federated.1nwu63z0ouz5p11106x1219gsvfc].[none:location:nk]' />
+              <geometry column='[federated.1nwu63z0ouz5p11106x1219gsvfc].[Geometry (generated)]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-transparency' value='103' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1nwu63z0ouz5p11106x1219gsvfc].[Latitude (generated)]</rows>
+        <cols>[federated.1nwu63z0ouz5p11106x1219gsvfc].[Longitude (generated)]</cols>
+      </table>
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='interest_over_time' name='federated.0lsugko1vaz8wk1blvfst0ygr7nz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0lsugko1vaz8wk1blvfst0ygr7nz'>
+            <column caption='Date' datatype='date' name='[date]' role='dimension' type='ordinal' />
+            <column caption='Hits' datatype='integer' name='[hits]' role='measure' type='quantitative' />
+            <column caption='Keyword' datatype='string' name='[keyword]' role='dimension' type='nominal' />
+            <column-instance column='[keyword]' derivation='None' name='[none:keyword:nk]' pivot='key' type='nominal' />
+            <column-instance column='[hits]' derivation='Sum' name='[sum:hits:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[date]' derivation='Month-Trunc' name='[tmn:date:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0lsugko1vaz8wk1blvfst0ygr7nz].[none:keyword:nk]'>
+            <groupfilter function='level-members' level='[none:keyword:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0lsugko1vaz8wk1blvfst0ygr7nz].[none:keyword:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0lsugko1vaz8wk1blvfst0ygr7nz].[sum:hits:qk]</rows>
+        <cols>[federated.0lsugko1vaz8wk1blvfst0ygr7nz].[tmn:date:qk]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows source-height='72'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.1nwu63z0ouz5p11106x1219gsvfc].[none:keyword:nk]' type='filter' />
+            <card pane-specification-id='0' param='[federated.1nwu63z0ouz5p11106x1219gsvfc].[none:hits:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <default-map-tool-selection tool='1' />
+      </viewpoint>
+      <simple-id uuid='{A7A47842-9572-4442-99A8-7D926891C1ED}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0lsugko1vaz8wk1blvfst0ygr7nz].[none:keyword:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{CD1D4F35-6003-4D99-BF83-07875CDC097B}' />
+    </window>
+  </windows>
+</workbook>
